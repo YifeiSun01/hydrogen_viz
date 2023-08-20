@@ -3,16 +3,13 @@ import pandas as pd
 import numpy as np
 from pyecharts import options as opts
 from pyecharts.charts import Pie, Bar, Grid
-import colorlover as cl
 from streamlit_echarts import st_pyecharts
 import re
 from collections import Counter
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
-import re
 import folium
 from streamlit_folium import st_folium
-from streamlit_folium import folium_static
 import seaborn as sns
 import random
 
