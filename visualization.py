@@ -1139,57 +1139,33 @@ if selected_topic == "Hydrogen Safety Incidents\n氢气安全事故":
     
     df = pd.read_csv("hydrogen data chinese english.csv",index_col=[0])
     df["Incident Date\n事件日期"] = df["Incident Date\n事件日期"].apply(lambda x: datetime.strptime(x.split("\n")[0], '%d-%b-%Y'))
-    selected_option_5 = st.radio("Select a Year",["Show All Stations","Show Stations by Years"],index=0)
-    if selected_option_5 == "Show Stations by Years":
-        min_year, max_year = st.slider("Select a Range", df["Incident Date\n事件日期"].min().year, datetime.now().year, (df["Incident Date\n事件日期"].min().year, datetime.now().year))
-        df = df[df["Incident Date\n事件日期"]!=None][(df["Incident Date\n事件日期"]>datetime(min_year,1,1))&(df["Incident Date\n事件日期"]<datetime(max_year,12,31))]
-    columns_to_select = list(df.columns)[2:13]+[list(df.columns)[-1]]
-    selected_column = st.selectbox("Choose a feature to visualize:\n选择一个特征进行可视化:",columns_to_select)
-    
-    if selected_column in ["Severity\n严重性","Leak\n泄漏","Ignition\n点火","Characteristics\n特点","When Incident Discovered\n事故发现时间"]:
-        pie_data = sorted(list(Counter(df[selected_column].str.split(", ").explode()).items()),key=lambda x: x[1], reverse=True)[::-1]
-        pie_chart = (
-            Pie()
-            .add("", pie_data, radius=["30%", "70%"])
-            .set_global_opts(title_opts=opts.TitleOpts(title=f"{selected_column}\nOut of all stations in the record",
-                                                    pos_bottom="85%", pos_left="8%",
-                                                    ),
-                                                    graphic_opts=[
-            opts.GraphicGroup(
-                graphic_item=opts.GraphicItem(
-                    bounding="raw",
-                    right="5%",
-                    top="10%",  # Adjust this value to add more space to the top
-                    z=100,
+    selected_option_6 = st.radio("",["See Visualization\n展示可视化","Show Raw Data\n展示原始数据"])
+    if selected_option_6 == "See Visualization\n展示可视化":
+        selected_option_5 = st.radio("Select a Year",["Show All Stations","Show Stations by Years"],index=0)
+        if selected_option_5 == "Show Stations by Years":
+            min_year, max_year = st.slider("Select a Range", df["Incident Date\n事件日期"].min().year, datetime.now().year, (df["Incident Date\n事件日期"].min().year, datetime.now().year))
+            df = df[df["Incident Date\n事件日期"]!=None][(df["Incident Date\n事件日期"]>datetime(min_year,1,1))&(df["Incident Date\n事件日期"]<datetime(max_year,12,31))]
+        columns_to_select = list(df.columns)[2:13]+[list(df.columns)[-1]]
+        selected_column = st.selectbox("Choose a feature to visualize:\n选择一个特征进行可视化:",columns_to_select)
+        
+        if selected_column in ["Severity\n严重性","Leak\n泄漏","Ignition\n点火","Characteristics\n特点","When Incident Discovered\n事故发现时间"]:
+            pie_data = sorted(list(Counter(df[selected_column].str.split(", ").explode()).items()),key=lambda x: x[1], reverse=True)[::-1]
+            pie_chart = (
+                Pie()
+                .add("", pie_data, radius=["30%", "70%"])
+                .set_global_opts(title_opts=opts.TitleOpts(title=f"{selected_column}\nOut of all stations in the record",
+                                                        pos_bottom="85%", pos_left="8%",
+                                                        ),
+                                                        graphic_opts=[
+                opts.GraphicGroup(
+                    graphic_item=opts.GraphicItem(
+                        bounding="raw",
+                        right="5%",
+                        top="10%",  # Adjust this value to add more space to the top
+                        z=100,
+                    )
                 )
-            )
-    ],toolbox_opts=opts.ToolboxOpts(
-    feature={
-        "saveAsImage": {},
-        "dataZoom": {},
-        "restore": {},          # Restore to original state
-        "brush": {},
-        "dataView": {}
-    }
-    ),
-                        legend_opts=opts.LegendOpts(orient="horizontal", pos_bottom="0%", pos_left="center",padding=[10, 0, 50, 0],border_width=0),
-                        )
-        .set_series_opts(label_opts=opts.LabelOpts(formatter="{b}:\n{c} ({d}%)"))
-    )
-        st_pyecharts(pie_chart, height=600)
-      
-    elif selected_column != "Incident Date\n事件日期":
-        bar_data = sorted([(" ".join(i[0].split("\n")),i[1]) for i in list(Counter(df[selected_column].str.split(", ").explode()).items())],key=lambda x: x[1], reverse=True)[:40][::-1]
-        english_name, chinese_name = selected_column.split("\n")
-        bar_chart = (
-            Bar()
-            .add_xaxis([i[0] for i in bar_data])
-            .add_yaxis("Number of Stations\n加氢站数量", [i[1] for i in bar_data])
-            .reversal_axis()
-            .set_global_opts(title_opts=opts.TitleOpts(title=f"Top 40 {english_name}\n前四十{chinese_name}"),
-                            xaxis_opts=opts.AxisOpts(axislabel_opts=opts.LabelOpts(font_size=12),min_=0, max_=200,interval=50),
-                            legend_opts=opts.LegendOpts(orient="horizontal", pos_bottom="0%", pos_left="center",padding=[0, 0, 0, 0],border_width=0),
-                            toolbox_opts=opts.ToolboxOpts(
+        ],toolbox_opts=opts.ToolboxOpts(
         feature={
             "saveAsImage": {},
             "dataZoom": {},
@@ -1197,18 +1173,46 @@ if selected_topic == "Hydrogen Safety Incidents\n氢气安全事故":
             "brush": {},
             "dataView": {}
         }
-    ))
-    )
-        grid = Grid()
-
-        # Add padding to the left side of the chart
-        grid.add(
-            bar_chart,
-            grid_opts=opts.GridOpts(pos_left="30%", pos_right="10%", pos_bottom="5%", pos_top="15%")  # Adjust the left and right padding as needed
+        ),
+                            legend_opts=opts.LegendOpts(orient="horizontal", pos_bottom="0%", pos_left="center",padding=[10, 0, 50, 0],border_width=0),
+                            )
+            .set_series_opts(label_opts=opts.LabelOpts(formatter="{b}:\n{c} ({d}%)"))
         )
-        st_pyecharts(grid, height=800, width=1000)
-
-    elif selected_column == "Incident Date\n事件日期":
-        pass  
-      
-      
+            st_pyecharts(pie_chart, height=600)
+          
+        elif selected_column != "Incident Date\n事件日期":
+            bar_data = sorted([(" ".join(i[0].split("\n")),i[1]) for i in list(Counter(df[selected_column].str.split(", ").explode()).items())],key=lambda x: x[1], reverse=True)[:40][::-1]
+            english_name, chinese_name = selected_column.split("\n")
+            bar_chart = (
+                Bar()
+                .add_xaxis([i[0] for i in bar_data])
+                .add_yaxis("Number of Stations\n加氢站数量", [i[1] for i in bar_data])
+                .reversal_axis()
+                .set_global_opts(title_opts=opts.TitleOpts(title=f"Top 40 {english_name}\n前四十{chinese_name}"),
+                                xaxis_opts=opts.AxisOpts(axislabel_opts=opts.LabelOpts(font_size=12),min_=0, max_=200,interval=50),
+                                legend_opts=opts.LegendOpts(orient="horizontal", pos_bottom="0%", pos_left="center",padding=[0, 0, 0, 0],border_width=0),
+                                toolbox_opts=opts.ToolboxOpts(
+            feature={
+                "saveAsImage": {},
+                "dataZoom": {},
+                "restore": {},          # Restore to original state
+                "brush": {},
+                "dataView": {}
+            }
+        ))
+        )
+            grid = Grid()
+    
+            # Add padding to the left side of the chart
+            grid.add(
+                bar_chart,
+                grid_opts=opts.GridOpts(pos_left="30%", pos_right="10%", pos_bottom="5%", pos_top="15%")  # Adjust the left and right padding as needed
+            )
+            st_pyecharts(grid, height=800, width=1000)
+    
+        elif selected_column == "Incident Date\n事件日期":
+            pass  
+    if selected_option_6 == "Show Raw Data\n展示原始数据":
+      st.write(df)
+          
+          
