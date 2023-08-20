@@ -1,0 +1,1602 @@
+﻿,"ID_OLD
+ID_OLD","ID
+ID","CompanyName
+公司名称","CompanyName2
+公司名称2","Street1
+街道1","Street2
+街道 2","StreetNr
+街道编号","Zip
+邮政编码","City
+城市","Country
+国家","State
+州/省","Contact
+联系方式","Homepage
+主页","Extended
+扩展","VM_ID
+VM_ID","Comment
+评论","Autor
+作者","Testfield
+测试场"
+0,1.0,1,"BMW
+宝马",,,,,,,"Germany
+德国",,,,0.0,,,,
+1,5.0,5,"Linde AG
+林德股份公司",,"Seitnerstraße
+Seitnerstraße",,70.0,82049,"Pullach
+拉钩","Germany
+德国","Bayern
+拜仁",,http://www.linde-gas.com/en/innovations/hydrogen_energy_h2/index.html ,1.0,-1.0,,,
+2,6.0,6,"Honda
+本田",,,,,,,"Japan
+日本",,,,0.0,,,,
+3,7.0,7,"Toyota
+丰田",,,,,,,"Japan
+日本",,,,0.0,,,,
+4,8.0,8,"Hyundai
+现代汽车",,,,,,,"Korea
+韩国",,,,0.0,,,,
+5,12.0,12,"Ford Motor Corp.
+福特汽车公司",,,,,,,"United States
+美国",,,,0.0,,,,
+6,13.0,13,"Ballard Power Systems
+巴拉德电力系统公司",,,,,,,"Canada
+加拿大",,,,0.0,,,,
+7,17.0,17,"Tongji University
+同济大学",,,,,,,"China
+中国",,,,0.0,,,,
+8,20.0,20,"TotalEnergies
+总能源",,,,,,,"France
+法国",,,https://totalenergies.com,,,"beinhaltet auch Pitpoint
+还包括 Pitpoint","eps
+eps",
+9,21.0,21,"Fiat
+菲亚特",,,,,,"Napoli
+那不勒斯","Italy
+意大利",,,,0.0,,,,
+10,22.0,22,"Daimler AG
+戴姆勒股份公司",,,,,,"Stuttgart
+斯图加特","Germany
+德国",,,,0.0,,,,
+11,23.0,23,"OMV
+OMV",,,,,,,"Austria
+奥地利",,,,0.0,,,,
+12,24.0,24,"ET Energie Technologie
+ET 能源技术","private owned independent enterprise (SME)
+私营独立企业",,,,,,"Germany
+德国",,,,0.0,,,,
+13,25.0,25,"Enova
+Enova",,,,,,,,,,,,,,,
+14,28.0,28,"H2 Logic
+H2 逻辑","Hydrogen & Fuel Cell related Work Packages
+氢能和燃料电池相关工作包",,,,,,"Denmark
+丹麦",,,"www.h2logic.com
+www.h2logic.com",0.0,,"ist jetzt identisch NEL
+现在与 NEL","eps
+eps",
+15,36.0,36,"Planet
+行星",,,,,,,"Germany
+德国",,,,,,,,
+16,37.0,37,"BP
+英国石油公司","brand Aral
+阿拉尔品牌",,,,,,"United Kingdom
+英国",,,,0.0,,,,
+17,39.0,39,"E.ON 
+E.ON ",,,,,,,"Germany
+德国",,,,0.0,,,,
+18,40.0,40,"Grimm Aerosol
+格林气雾剂",,,,,,,"Germany
+德国",,,,,,,,
+19,41.0,41,"MAN Nutzfahrzeuge
+MAN 商用车",,,,,,,"Germany
+德国",,,,,,,,
+20,42.0,42,"Siemens
+西门子",,,,,,,"Germany
+德国",,,,0.0,,,,
+21,43.0,43,"Proton Motor Fuel Cells GmbH
+质子马达燃料电池有限公司",,,,,,,"Germany
+德国",,,,,,,,
+22,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+前身是海德鲁公司，由诺尔斯克海德鲁公司和挪威国家石油公司（Statoil）合并而成，当时为挪威国家石油海德鲁公司（StatoilHydro
+说到电解槽，现在是 NEL Hydrogen、
+加气站则为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+23,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+前身是海德鲁公司，由 Nordsk Hydro 和挪威国家石油公司（Statoil）合并而成，当时是挪威国家石油公司海德鲁公司（StatoilHydro）。
+说到电解槽，现在是 NEL Hydrogen、
+加气站为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+24,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+前身是海德鲁公司，由 Nordsk Hydro 和挪威国家石油公司（Statoil）合并而成，当时是挪威国家石油公司海德鲁公司（StatoilHydro）。
+说到电解槽，现在是 NEL Hydrogen、
+加气站为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+25,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+前身是海德鲁公司，由诺尔斯克海德鲁公司和挪威国家石油公司（Statoil）合并而成，当时是挪威国家石油公司海德鲁公司（StatoilHydro）。
+说到电解槽，现在是 NEL Hydrogen、
+加气站为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+26,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+该公司的前身是海德鲁公司（Hydro），由 Nordsk Hydro 和挪威国家石油公司（Statoil）合并而成，当时是挪威国家石油公司海德鲁公司（StatoilHydro）。
+说到电解槽，现在是 NEL Hydrogen、
+加气站为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+27,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+前身是海德鲁公司，由诺尔斯克海德鲁公司和挪威国家石油公司（Statoil）合并而成，当时为挪威国家石油海德鲁公司（StatoilHydro
+说到电解槽，现在是 NEL Hydrogen、
+加气站则为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+28,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+前身是海德鲁公司，由诺尔斯克海德鲁公司和挪威国家石油公司合并而成，后改为挪威国家石油海德鲁公司
+说到电解槽，现在是 NEL Hydrogen、
+加气站则为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+29,48.0,48,"NEL Hydrogen
+NEL 氢",,,,,,,"Norway
+挪威",,,,,,"war zuvor Hydro, ging aus Nordsk Hydro und Statoil hervor, war dann StatoilHydro
+wenn es um Elektrolyseure geht dann heißt das jetzt NEL Hydrogen,
+wenn es um Tankstellenbetrieb geht dann HYOP.
+27.6.16 Nel Hydrogen Solutions formerly branded as a part of H2Logic
+Nel ist jetzt gleichbedeutend mit H2Logic
+前身是海德鲁公司，由 Nordsk Hydro 和挪威国家石油公司（Statoil）合并而成，当时是挪威国家石油公司海德鲁公司（StatoilHydro）。
+
+说到电解槽，现在是 NEL Hydrogen、
+加气站为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词","eps
+eps",
+30,49.0,49,"Praxair Inc.
+普莱克斯公司",,,,,,,"United States
+美国",,,,,,,,
+31,50.0,50,"SCAQMD
+SCAQMD","South Coast Air Quality Management District
+南海岸空气质量管理区",,,,,,"United States
+美国",,,,,,,,
+32,51.0,51,"U.S. DoE
+美国能源部","U.S. Department of Energy
+美国能源部",,,,,,"United States
+美国",,,,,,,,
+33,52.0,52,"Kaiser Engineering
+凯撒工程公司",,,,,,,"United States
+美国",,,,,,,,
+34,53.0,53,"Clean Air Now
+立即清洁空气",,,,,,,"United States
+美国",,,,,,,,
+35,54.0,54,"Wasserstoff-Gesellschaft Hamburg e.V.
+汉堡氢能协会",,,,,,"Hamburg
+汉堡","Germany
+德国",,,,,,,,
+36,55.0,55,"Brochier GmbH
+Brochier GmbH",,,,,,,"Germany
+德国",,,,,,,,
+37,56.0,56,"European Commission
+欧盟委员会",,,,,,,,,,,,,,,
+38,57.0,57,"Mahler IGS
+马勒 IGS",,,,,,,"Germany
+德国",,,,,,,,
+39,58.0,58,"Andreas Hofer Hochdrucktechnik GmbH
+Andreas Hofer Hochdrucktechnik GmbH",,,,,,,"Germany
+德国",,,,0.0,8322.0,"eps: Teilnehmer der virtuellen Messe
+eps： 虚拟交易会的参与者","eps
+eps",
+40,59.0,59,"Air Products
+空气产品",,,,,,,"United States
+美国",,,,,,,,
+41,60.0,60,"Air Liquide
+液化空气公司",,,,,,,"France
+法国",,,,,,,,
+42,61.0,61,"Proton OnSite
+质子现场",,,,,,,"United States
+美国",,,http://www.protononsite.com/,,,"hieß vor 2011 Proton Energy Systems
+2011 年之前名为质子能源系统公司","eps
+eps",
+43,63.0,63,"Mannesmann DEMAG
+曼内斯曼 DEMAG",,,,,,,"Germany
+德国",,,,,,,,
+44,64.0,64,"m-tec Gastechnologie GmbH
+m-tec Gastechnologie GmbH",,,,,,,"Germany
+德国",,,,,,,,
+45,67.0,67,"Infraserv GmbH & Co. Hoechst KG Germany
+Infraserv GmbH & Co. Hoechst KG 德国",,,,,,,"Germany
+德国",,,,,,,,
+46,69.0,69,"Centro Ricerche Fiat 
+菲亚特研究中心 ","CRF
+CRF",,,,,,"Italy
+意大利",,,,,,,,
+47,70.0,70,"Joint Research Center European Commission
+欧盟委员会联合研究中心","JRC EC
+JRC EC",,,,,"Ispra
+伊斯普拉","Italy
+意大利",,,,,,,,
+48,71.0,71,"Eni Tecnologie Italy
+意大利埃尼技术公司",,,,,,,"Italy
+意大利",,,,,,,,
+49,72.0,72,"BGA Garn
+BGA 加恩","Büro für Gase- und Anwendungstechnik
+气体和应用技术办公室",,,,,,"Germany
+德国",,,,,,,,
+50,73.0,73,"WEH GmbH Gas Technology
+WEH GmbH 气体技术",,,,,,,"Germany
+德国",,,"www.weh.de
+www.weh.de",0.0,9083.0,"eps: Teilnehmer der virtuellen Messe
+eps： 虚拟交易会的参与者",,
+51,75.0,75,"Hysolutions GmbH
+Hysolutions GmbH",,,,,,"Hamburg
+汉堡","Germany
+德国",,,"www.hysolutions-hamburg.de
+www.hysolutions-hamburg.de",,,,,
+52,76.0,76,"STILL
+仍然是",,,,,,,,,,,,,,,
+53,77.0,77,"MAGNA STEYR AG & Co KG
+麦格纳斯太尔股份有限公司",,"Magna Straße 1
+麦格纳街 1 号",,,2522 ,"Oberwaltersdorf
+上瓦尔特多夫","Austria
+奥地利",,,"www.magnasteyr.com
+www.magnasteyr.com",,,,"Thomas Walter
+托马斯-瓦尔特",
+54,78.0,78,"Esoro AG
+埃索罗股份公司",,,,,,,"Switzerland
+瑞士",,,"www.esoro.ch
+www.esoro.ch",,,,,
+55,79.0,79,"Messer Schweiz AG
+梅塞尔瑞士股份公司","brand: SL Gas
+品牌 SL Gas",,,,,,"Switzerland
+瑞士",,,"www.messergroup.com/ch-gas
+www.messergroup.com/ch-gas",,,,,
+56,81.0,81,"Irisbus
+鸢尾花巴士",,,,,,,,,,,,,,,
+57,82.0,82,"Gaz de France
+法兰西报",,,,,,,"France
+法国",,,,,,,,
+58,83.0,83,"GNVert
+GNVert",,,,,,,"France
+法国",,,,,,,,
+59,84.0,84,"HyGear B.V.
+HyGear B.V.",,,,,6802  EG ,"Arnhem
+阿纳姆","Netherlands
+荷兰",,,"www.hygear.nl
+www.hygear.nl",,,,,
+60,85.0,85,"Repsol
+雷普索尔",,,,,,,"Spain
+西班牙",,,,,,,,
+61,87.0,87,"Shell
+壳牌",,,,,,,"Netherlands
+荷兰",,,,0.0,,,,
+62,88.0,88,"Enercon
+Enercon",,,,,,,"Germany
+德国",,,,,,,,
+63,89.0,89,"NTDA Energia
+NTDA 能源公司",,,,,,,"Spain
+西班牙",,,,,,,,
+64,90.0,90,"Iberdrola
+Iberdrola",,,,,,,"Spain
+西班牙",,,,,,,,
+65,91.0,91,"General Motors
+前身是海德鲁公司，由 Nordsk Hydro 和挪威国家石油公司（Statoil）合并而成，当时是挪威国家石油公司海德鲁公司（StatoilHydro）。
+说到电解槽，现在是 NEL Hydrogen、
+加气站为 HYOP。
+27.6.16 Nel Hydrogen Solutions 原为 H2Logic 旗下品牌
+Nel 现在是 H2Logic 的代名词",,,,,,,"United States
+美国",,,,0.0,,,,
+66,91.0,91,"General Motors
+通用汽车公司",,,,,,,"United States
+美国",,,,0.0,,,,
+67,102.0,102,"Microcab Industries 
+微型车工业 ",,,,,,,,,,,0.0,,,,
+68,104.0,104,"Intelligent Energy
+智能能源",,,,,,,,,,,0.0,,,,
+69,108.0,108,"Mazda
+马自达",,,,,,,"Japan
+日本",,,,0.0,,,,
+70,113.0,113,"Think Nordic AS, Norway 
+挪威北欧思维公司 ",,,,,,,"Norway
+挪威",,,,0.0,,,,
+71,114.0,114,"Raufoss Fuel Systems AS, Norway 
+挪威 Raufoss 燃料系统公司 ",,,,,,,"Norway
+挪威",,,,0.0,,,,
+72,115.0,115,"Hydrogenics Corp.
+Hydrogenics Corp.",,,,,,"Mississauga
+密西沙加","Canada
+加拿大","Ontario
+安大略省",,,0.0,8978.0,"in Kanada, Belgien und DE. Hydrogenics GmbH Gladbeck war Teilnehmer der virtuellen Messe
+In 2019 Hydrogenics was acquired in large parts by Cummins as part of their New Power division. Hydrogenics is now owned 81?% by Cummins and 19?% by Air Liquide
+在加拿大、比利时和德国。Hydrogenics GmbH Gladbeck 是虚拟博览会的合作者
+2019 年，Hydrogenics 被康明斯收购，成为其新动力部门的一部分。目前，康明斯和液化空气分别持有 Hydrogenics 公司 81% 和 19% 的股份。",,
+73,115.0,115,"Hydrogenics Corp.
+Hydrogenics Corp.",,,,,,"Mississauga
+密西沙加","Canada
+加拿大","Ontario
+安大略省",,,0.0,8978.0,"in Kanada, Belgien und DE. Hydrogenics GmbH Gladbeck war Teilnehmer der virtuellen Messe
+In 2019 Hydrogenics was acquired in large parts by Cummins as part of their New Power division. Hydrogenics is now owned 81?% by Cummins and 19?% by Air Liquide
+在加拿大、比利时和德国。Hydrogenics GmbH Gladbeck 是虚拟博览会的合作者
+2019 年，Hydrogenics 被康明斯收购，成为其新动力部门的一部分。目前，康明斯和液化空气分别持有 Hydrogenics 公司 81% 和 19% 的股份。",,
+74,115.0,115,"Hydrogenics Corp.
+Hydrogenics Corp.",,,,,,"Mississauga
+密西沙加","Canada
+加拿大","Ontario
+安大略省",,,0.0,8978.0,"in Kanada, Belgien und DE. Hydrogenics GmbH Gladbeck war Teilnehmer der virtuellen Messe
+In 2019 Hydrogenics was acquired in large parts by Cummins as part of their New Power division. Hydrogenics is now owned 81?% by Cummins and 19?% by Air Liquide
+在加拿大、比利时和德国。Hydrogenics GmbH Gladbeck 是虚拟博览会的合作者
+
+2019 年，Hydrogenics 被康明斯收购，成为其新动力部门的一部分。目前，康明斯和液化空气分别持有 Hydrogenics 公司 81% 和 19% 的股份。",,
+75,115.0,115,"Hydrogenics Corp.
+Hydrogenics Corp.",,,,,,"Mississauga
+密西沙加","Canada
+加拿大","Ontario
+安大略省",,,0.0,8978.0,"in Kanada, Belgien und DE. Hydrogenics GmbH Gladbeck war Teilnehmer der virtuellen Messe
+In 2019 Hydrogenics was acquired in large parts by Cummins as part of their New Power division. Hydrogenics is now owned 81?% by Cummins and 19?% by Air Liquide
+在加拿大、比利时和德国。Hydrogenics GmbH Gladbeck 是虚拟博览会的合作伙伴
+2019 年，Hydrogenics 被康明斯收购，成为其新动力部门的一部分。目前，康明斯和液化空气分别持有 Hydrogenics 公司 81% 和 19% 的股份。",,
+76,118.0,118,"IOCL Indian Oil Corporation Ltd.
+IOCL 印度石油有限公司",,"SCOPE Complex, Core 2,7, Institutional Area
+SCOPE 建筑群，核心 2，7，机构区","Lodhi Road
+洛迪路",,110049,"Neu Delhi
+新德里","India
+印度",,,"www.iocl.com
+www.iocl.com",0.0,,,,
+77,123.0,123,"Ballard
+巴拉德",,,,,,,"Canada
+加拿大",,,,0.0,,,,
+78,126.0,126,"Quantum Technologies
+量子技术",,,,,,,,,,,0.0,,,,
+79,128.0,128,"UTC Power
+UTC电力公司",,,,,,,,,,,,,,,
+80,131.0,131,"Chart Industries
+图表工业",,,,,,,"United States
+美国",,,,,,,,
+81,132.0,132,"Howaltwerke Deutsche Werft
+德国 Howaltwerke 船厂",,,,,,,"Germany
+德国",,,,,,,,
+82,144.0,144,"Sapio Italy
+意大利萨皮奥",,,,,,,"Italy
+意大利",,,,,,,,
+83,146.0,146,"IEFE Bocconi University
+博科尼大学 IEFE",,,,,,,"Italy
+意大利",,,,,,,,
+84,148.0,148,"Nuvera Fuel Cells
+Nuvera 燃料电池",,,,,,,"Italy
+意大利",,,,,,,,
+85,150.0,150,"SAIC Shanghai Automotive Industry Corporation
+上汽集团 上海汽车工业",,,,,,"Shanghai
+上海","China
+中国",,,,0.0,,,,
+86,152.0,152,"Nissan
+日产",,,,,,,"Japan
+日本",,,,0.0,,,,
+87,161.0,161,"Chevron
+雪佛龙",,,,,,,"United States
+美国",,,,,,,,
+88,162.0,162,"Progress Energy
+进步能源公司",,,,,,,"United States
+美国",,,,,,,,
+89,163.0,163,"H2Gen
+H2Gen",,,,,,,"United States
+美国",,,,,,,,
+90,166.0,166,"GreenField Compression Inc.
+GreenField 压缩公司",,909 N. Bowser Road,,,,"Richardson
+理查森","United States
+美国","Texas
+德克萨斯州",,"www.greenfieldcompression.com
+www.greenfieldcompression.com",,,,,
+91,167.0,167,"Gas Technology Institute GTI 
+天然气技术研究所 GTI ",,,,,,"Des Plaines
+德普莱恩斯","United States
+美国","Illinois
+伊利诺伊州",,"www.gastechnology.org
+www.gastechnology.org",,,,,
+92,180.0,180,"Advanced Technology Vehicles
+先进技术车辆",,,,,,,"United States
+美国",,,,0.0,,,,
+93,192.0,192,"Messer
+刀具",,,,,,,"Germany
+德国",,,,0.0,,1.4.19: Messer Griesheim GmbH umgeschrieben auf Messer,"eps
+eps",
+94,207.0,207,"IVECO
+依维柯",,,,,,,"Italy
+意大利",,,,0.0,,,,
+95,209.0,209,"ISE  Corporation
+ISE 公司",,12302 Kerran Street,,,92064-6884,"Poway
+鲍威","United States
+美国","Californien
+加州","marketing@isecorp.com
+marketing@isecorp.com","www.isecorp.com
+www.isecorp.com",0.0,,,"Thomas Walter
+托马斯-瓦尔特",
+96,212.0,212,"Dynetek Industries Ltd.
+Dynetek Industries Ltd.",,,,,,"Calgary
+卡尔加里","Canada
+加拿大",,,"www.dynetek.com
+www.d",0.0,,,,
+97,212.0,212,"Dynetek Industries Ltd.
+Dynetek Industries Ltd.",,,,,,"Calgary
+卡尔加里","Canada
+加拿大",,,"www.dynetek.com
+www.dynetek.com",0.0,,,,
+98,213.0,213,"New Flyer
+新传单",,,,,,,"Canada
+加拿大",,,,0.0,,,,
+99,217.0,217,"AC Transit 
+AC Transit ","Alameda-Contra Costa Transit District
+阿拉米达-康特拉科斯塔公交区",,,,,,"United States
+美国","California
+加利福尼亚州",,,0.0,,,,
+100,219.0,219,"Van Hool
+范霍尔",,,,,,,"Belgium
+比利时",,,,0.0,,,,
+101,220.0,220,"Fraunhofer Institute for Transporation and Infrastructure Systems
+弗劳恩霍夫交通与基础设施系统研究所",,,,,,"Dresden
+德累斯顿","Germany
+德国",,,,0.0,,,,
+102,230.0,230,"Tsinghua University
+清华大学",,,,,,,"China
+中国",,,,0.0,,,,
+103,237.0,237,"Hino
+日野",,,,,,,"Japan
+日本",,,,0.0,,,,
+104,240.0,240,"Ludwig-Bölkow-Sytemtechnik GmbH
+路德维希-布尔科夫系统技术有限公司",,,,,,,"Germany
+德国",,,,1.0,6906.0,,,
+105,244.0,244,"Kraus Global Inc.
+克劳斯全球公司",,,,,,"Winnipeg
+温尼伯","Canada
+加拿大",,,,,,,,
+106,245.0,245,"Hydrogen Systems N.V
+Hydrogen Systems N.V",,,,,,,"Netherlands
+荷兰",,,,0.0,,,,
+107,246.0,246,"NextEnergy
+下一个能源",,,,,,"Detroit
+底特律","United States
+美国","Michigan
+迪尔伯恩",,http://nextenergy.org,,,,,
+108,247.0,247,"REB Research & Consulting
+REB 研究与咨询公司","Hydrogen Separation and Membran Reactors
+氢分离和膜反应器","Hilton Road
+希尔顿路",,,,"Ferndale
+希尔顿路","United States
+美国","Michigan
+迪尔伯恩",,"www.rebresearch.com
+www.rebresearch.com",,,,,
+109,248.0,248,"DTE Energy
+DTE 能源公司",,,,,,,"United States
+美国",,,"www.dteenergy.com
+www.dteenergy.com",0.0,,,,
+110,262.0,262,"QuestAir Technologies Inc.
+QuestAir Technologies Inc.",,,,,,"Burnaby
+本那比市","Canada
+加拿大",,,"www.questairinc.com
+www.questairinc.com",0.0,,,,
+111,263.0,263,"Plug Power Inc.
+Plug Power 公司",,968 Albany Shaker Road,,,,"Latham
+莱瑟姆","United States
+美国","New York
+纽约",,"www.plugpower.com
+www.plugpower.com",0.0,,,,
+112,269.0,269,"GE General Electric
+GE 通用电气",,,,,,,"United States
+美国",,,,0.0,,,,
+113,289.0,289,"HERA Hydrogen Storage Systems 
+HERA 储氢系统 ",,,,,,,,,,,0.0,,,,
+114,294.0,294,"General Hydrogen 
+普通氢气 ",,,,,,,"United States
+美国",,,,0.0,,,,
+115,321.0,321,"Zebotec GmbH
+Zebotec GmbH",,,,,,,"Germany
+德国",,,,0.0,,,,
+116,344.0,344,"Ztek
+Ztek",,"Via da Borgo
+Via da Borgo",,14.0,38059 ,"Villa Agnedo
+阿格内多别墅","Italy
+意大利",,,"www.ztekcorp.com
+www.ztekcorp.com",0.0,,,,
+117,345.0,345,"CaFCP
+CaFCP","California Fuel Cell Partnership
+加州燃料电池合作伙伴",,,,,,"United States
+美国","California
+加利福尼亚州",,"www.cafcp.org
+www.cafcp.org",0.0,,,,
+118,347.0,347,"Teledyne Brown
+Teledyne Brown",,,,,,,,,,,0.0,,,,
+119,348.0,348,"Hyradix
+海拉迪克斯",,,,,,,"United States
+美国",,,,0.0,,,,
+120,354.0,354,"BC Hydro
+不列颠哥伦比亚水电公司",,,,,,,"Canada
+加拿大",,,,0.0,,,,
+121,355.0,355,"National Research Council Canada NRC
+加拿大国家研究理事会 NRC",,,,,,,"Canada
+加拿大",,,"www.nrc-cnrc.gc.ca
+www.nrc-cnrc.gc.ca",0.0,,,,
+122,356.0,356,"Powertech Labs Inc.
+Powertech Labs Inc.",,,,,,"Surrey
+萨里","Canada
+加拿大","BC
+不列颠哥伦比亚省",,"www.powertechlabs.com
+www.powertechlabs.com",0.0,,,,
+123,360.0,360,"Iwatani
+岩谷",,,,,,,"Japan
+日本",,,"www.iwatani.co.jp
+www.iwatani.co.jp",0.0,,,,
+124,361.0,361,"Kansai Electric
+关西电气",,,,,,,"Japan
+日本",,,,0.0,,,,
+125,363.0,363,"ENI S.p.A.
+ENI S.p.A.",,,,,,"Rom
+罗马书","Italy
+意大利",,,,0.0,,,,
+126,364.0,364,"Industrial Technology Research Institute ITRI
+工业技术研究院（ITRI",,,,,,,"Taiwan
+台湾",,,,0.0,,,,
+127,365.0,365,"TATUNG SYSTEM TECHNOLOGIES INC.
+TATUNG SYSTEM TECHNOLOGIES INC.",,,,,,,,,,,0.0,,,,
+128,366.0,366,"Pressure Products Industries Inc.
+压力产品工业公司",,,,,,,,,,,0.0,,,,
+129,367.0,367,"HyGen Industries LLC.
+HyGen Industries LLC.",,,,,,,"United States
+美国",,,"www.hygen.com
+www.hygen.com",0.0,,,"eps
+eps",
+130,371.0,371,"General Physics Corporation GP
+通用物理公司 GP",,,,,,,"United States
+美国",,,,0.0,,,,
+131,372.0,372,"Icelandic Hydrogen
+冰岛氢",,,,,,,"Iceland
+冰岛",,,,0.0,,,,
+132,374.0,374,"Hythane Company LLC
+Hythane Company LLC",,,,,,,,,,,0.0,,,,
+133,377.0,377,"Federal Transit Administration FTA
+联邦运输管理局 FTA","U.S. Department of Transportation
+美国运输部",,,,,,"United States
+美国",,,,0.0,,,,
+134,379.0,379,"FuelCell Energy
+燃料电池能源",,,,,,"danbury
+丹伯里","United States
+美国","Conneticut
+康涅狄格州",,,0.0,,,,
+135,380.0,380,"Center for Hydrogen Research
+氢研究中心",,,,,,"Aiken
+艾肯","United States
+美国","South Carolina
+南卡罗来纳州",,,0.0,,"belonging to Savannah River National Laboratory
+属于萨凡纳河国家实验室","eps
+eps",
+136,382.0,382,"Fronius International GmbH
+福罗尼斯国际有限公司",,,,,,,"Austria
+奥地利",,,,0.0,,,"eps
+eps",
+137,383.0,383,"Bitter GmbH
+苦味有限公司",,,,,,,,,,,0.0,,,,
+138,387.0,387,"ComPair
+ComPair",,,,,,,,,,,0.0,,"Compressor manufactor
+压缩机制造商","eps
+eps",
+139,390.0,390,"Osaka Gas Co., Ltd.
+大阪燃气有限公司",,,,,,,"Japan
+日本",,,,0.0,,,"eps
+eps",
+140,400.0,400,"ITM Power
+ITM 电力",,,,,,,"United Kingdom
+英国",,,"www.itm-power.com
+www.itm-power.com",0.0,9844.0,"eps: Teilnehmer der virtuellen Messe
+eps： 虚拟交易会的参与者","eps
+eps",
+141,401.0,401,"National Renewable Energy Laboratory NREL
+国家可再生能源实验室 NREL",,,,,,,"United States
+美国",,,"www.nrel.gov
+www.nrel.gov",0.0,,,"eps
+eps",
+142,402.0,402,"Hexagon
+六边形",,,,,,,,,,,0.0,,,"eps
+eps",
+143,403.0,403,"Nippon Oil Corp.
+新日本石油公司",,,,,,,"Japan
+日本",,,,0.0,,,"eps
+eps",
+144,404.0,404,"Nippon Steel Corp.
+新日本制铁公司",,,,,,,"Japan
+日本",,,,0.0,,,"eps
+eps",
+145,452.0,452,"Lurgi IHT 
+Lurgi IHT ",,,,,,,,,,"www.iht.ch
+Lurgi IHT ",0.0,,,"eps
+eps",
+146,453.0,453,"FTI International
+FTI 国际",,,,,,,,,,"www.fuelingtech.com
+www.fuelingtech.com",0.0,,,"eps
+eps",
+147,460.0,460,"SunHydro
+SunHydro",,,,,,,,,,"www.sunhydro.com
+www.sunhydro.com",0.0,,,"eps
+eps",
+148,463.0,463,"PURE EnergyTM Centre
+纯净能源中心",,,,,,,"United Kingdom
+英国","Scotland
+苏格兰",,,0.0,,,"eps
+eps",
+149,467.0,467,"Wrightbus
+莱特巴士",,"Galgorm
+加尔戈姆",,,"BT42 lPY
+BT42 lPY","Ballymena
+巴利梅纳","Ireland
+爱尔兰",,,http://www.wrightbus.com,0.0,,,"Thomas Walter
+托马斯-瓦尔特",
+150,471.0,471,"Abengoa Hidrogeno
+Abengoa Hidrogeno",,,,,,"Sevillie
+Sevillie","Spain
+西班牙",,,"www.hynergreen.abengoa.com
+www.hynergreen.abengoa.com",0.0,,"früher: Hynergreen
+前身：海纳格林","eps
+eps",
+151,472.0,472,"Carburos Metalicos
+金属气瓶",,,,,,,"Spain
+西班牙",,,,0.0,,"spanish part of Air Products
+空气产品公司西班牙分公司","eps
+eps",
+152,473.0,473,"National Institute for Aerospace Technology (INTA)
+国家航空航天技术研究所（INTA）",,,,,,,"Spain
+西班牙",,,,0.0,,,"eps
+eps",
+153,474.0,474,"Andalusian Association for Research and Industry AICIA
+安达卢西亚研究与工业协会 AICIA",,,,,,,"Spain
+西班牙",,,,0.0,,,"eps
+eps",
+154,481.0,481,"HyCentA - Hydrogen Center Austria
+HyCentA - 奥地利氢能中心",,"Inffeldgasse
+Inffeldgasse",,15.0,8010,"Graz
+格拉茨","Austria
+奥地利",,"office@hycenta.at
+office@hycenta.at",http://www.hycenta.at/,1.0,9090.0,"eps: Teilnehmer Virtuelle Messe, daher extended view
+name angepasst
+eps： 与会者虚拟博览会，因此是扩展视图
+
+名称调整","Thomas Walter
+托马斯-瓦尔特",
+155,481.0,481,"HyCentA - Hydrogen Center Austria
+HyCentA - 奥地利氢能中心",,"Inffeldgasse
+Inffeldgasse",,15.0,8010,"Graz
+格拉茨","Austria
+奥地利",,"office@hycenta.at
+office@hycenta.at",http://www.hycenta.at/,1.0,9090.0,"eps: Teilnehmer Virtuelle Messe, daher extended view
+name angepasst
+eps： 与会者虚拟博览会，因此是扩展视图
+名称调整","Thomas Walter
+托马斯-瓦尔特",
+156,486.0,486,"Hydrogen Frontier Inc.
+氢前沿公司",,,,,,,"United States
+美国",,,"www.hydrogenfrontier.com
+www.hydrogenfrontier.com",0.0,,,"eps
+eps",
+157,493.0,493,"Diamond Lite
+钻石之光",,,,,,,,,,,0.0,,,"eps
+eps",
+158,496.0,496,"SymbioFCell
+共生细胞",,,,,73370,"Le Bourget du Lac
+布尔歇湖","France
+法国",,,http://www.symbiofcell.com/j/home.html,0.0,,,,
+159,499.0,499,"Aloha Motor Company
+阿罗哈汽车公司",,,,,,,"United States
+美国",,,,0.0,,"joint venture by H2 Technologies and Taiwan´s Asia Pacific Fuel Cell Technologies
+H2 技术公司和台湾亚太燃料电池技术公司的合资企业","eps
+eps",
+160,500.0,500,"Acta S.p.A.
+Acta S.p.A.",,,,,,,"Italy
+意大利",,,,0.0,,,"eps
+eps",
+161,504.0,504,"SK Gas
+SK Gas",,,,,,,"Korea
+韩国",,,,0.0,,,"eps
+eps",
+162,506.0,506,"ENERTRAG
+ENERTRAG",,,,,,,,,,,0.0,,,"eps
+eps",
+163,507.0,507,"H2 Technologies
+H2 技术",,,,,,,,,,,0.0,,,"eps
+eps",
+164,508.0,508,"Tokyo Gas Co.,Ltd.
+东京煤气公司",,,,,,,"Japan
+日本",,,,0.0,,,"eps
+eps",
+165,509.0,509,"Dolomitech s.r.l. 
+Dolomitech s.r.l. ",,"Via da Borgo
+Via da Borgo",,14.0,38059 ,"Villa Agnedo
+阿格内多别墅","Italy
+意大利",,"info@dolomitech.com
+info@dolomitech.com","www.dolomitech.com
+www.dolomitech.com",0.0,,,,
+166,511.0,511,"Vatgas
+瓦特加斯",,,,,,,"Sweden
+瑞典",,,,0.0,,,"eps
+eps",
+167,512.0,512,"Kogas-TECH Korea Gas Technology Corporation
+Kogas-TECH 韩国天然气技术公司",,,,,,,"Korea
+韩国",,,,0.0,,"Kogas Tech ist seit 1993 von Kogas getrennt
+自 1993 年以来，Kogas Tech 已从 Kogas 分离出来","eps
+eps",
+168,513.0,513,"Ballast Nedam
+镇流器",,,,,,,"Netherlands
+荷兰",,,,0.0,,,"eps
+eps",
+169,514.0,514,"KIT - TID
+套件 - TID",,,,,,,"Germany
+德国",,,,0.0,,,"eps
+eps",
+170,517.0,517,"ENEOS Co.
+ENEOS Co.",,,,,,,"Japan
+日本",,,,0.0,,"vormals JXTG Nippon Oil & Energy Corporation
+标准 JXTG 日本石油能源公司","eps
+eps",
+171,518.0,518,"Toho Gas Co.,Ltd.
+东邦燃气有限公司",,,,,,,"Japan
+日本",,,,0.0,,,"eps
+eps",
+172,527.0,527,"WaterstofNet
+网络之水",,,,,,,"Netherlands
+荷兰",,,,0.0,,,"eps
+eps",
+173,530.0,530,"HYOP AS
+HYOP AS",,,,,,,"Norway
+挪威",,,,0.0,,"ging aus Statoil, StatoilHydro, Norsk Hydro hervor
+挪威国家石油公司、挪威国家水电公司、挪威海德鲁公司","eps
+eps",
+174,531.0,531,"Westfalen AG
+威斯特伐利亚股份公司",,,,,,,"Germany
+德国",,,,0.0,,,"eps
+eps",
+175,532.0,532,"McPhy
+麦克菲",,,,,,,,,,,0.0,9086.0,"eps: Teilnehmer der virtuellen Messe
+eps： 虚拟交易会的参与者","eps
+eps",
+176,533.0,533,2G,,,,,,,,,,,0.0,,,"eps
+eps",
+177,534.0,534,"Woikoski Oy
+Woikoski Oy",,,,,,,"Finland
+芬兰",,,,0.0,,"leading Finish gas company
+领先的 Finish 天然气公司","eps
+eps",
+178,540.0,540,"TÜV SÜD Industrie Service GmbH
+TÜV 南德意志集团工业服务有限公司",,,,,,,,,,,1.0,,"eps: Teilnehmer der virtuellen Messe
+eps： 虚拟交易会的参与者",,
+179,543.0,543,"Firstelement Fuel Inc.
+第一元素燃料公司",,,,,,,"United States
+美国",,,,0.0,,,"eps
+eps",
+180,549.0,549,"Walther Series
+瓦尔特系列",,,,,,,,,,,0.0,,700 bar coupling for Linde TrailH2-gas,"eps
+eps",
+181,552.0,552,"Renault Trucks
+雷诺卡车",,"route de Lyon
+里昂之路","TER A50 2 50
+TER A50 2 50",99.0,69806,"Saint Priest Cedex
+Saint Priest Cedex","France
+法国",,,http://corporate.renault-trucks.com,0.0,,,"Walter
+瓦尔特",
+182,554.0,554,"Fuel Cell Systems Ltd.
+燃料电池系统有限公司",,,,,,,,,,,0.0,,,"eps
+eps",
+183,555.0,555,"Nimohyss
+Nimohyss",,,,,,,,,,"www.nimohyss.com
+www.nimohyss.com",0.0,," Operated by the “Japan Joint Mobile Hydrogen Station Service,” a joint venture of Toyota Tsusho, Iwatani Sangyo, and Taiyo Nissho 3 companies.
+Japan Mobile Hydrogen Station Service (Nemohyss) HP http://www.nimohyss.com/
+Nimohis is an abbreviation that takes the initial letter of the operating company: Nippon Mo bile Hydrogen Station Service, LLC
+""Nippon"" steht für ""Japan""","eps
+eps",
+184,556.0,556,"Toshiba
+东芝",,,,,,,,,,,0.0,,,"eps
+eps",
+185,557.0,557,"AREVA H2Gen GmbH
+AREVA H2Gen GmbH",,,,,,,"France
+法国",,,"www.arevah2gen.com
+www.arevah2gen.com",0.0,9344.0,"virtuelle Messe
+2021: zu elogenh2.com umgeformt
+虚拟贸易展览会
+
+2021：转变为 elogenh2.com","eps
+eps",
+186,558.0,558,"Mitsubishi Kakoki Kaisha Ltd.
+三菱化学工业株式会社",,,,,,,"Japan
+日本",,,"www.kakoki.co.jp/english
+www.kakoki.co.jp/english",0.0,,"wichtiger TS Ausstatter in Japan
+日本重要的 TS 供应商","eps
+eps",
+187,559.0,559,"Vako
+瓦科",,,,,,"Kreuztal
+克劳兹塔尔",,,,,0.0,,"tank manufactorer
+储罐制造商","eps
+eps",
+188,560.0,560,"Faber
+法贝尔",,,,,,,,,,,0.0,,"high pressure tanks
+高压罐","eps
+eps",
+189,563.0,563,"EPC4H2
+EPC4H2","Engineering, Procurement & Construction, LLC
+工程、采购与施工有限责任公司",,,,,"Lakewood
+莱克伍德","United States
+美国",,,"www.epc4h2.com
+www.epc4h2.com",0.0,,,"eps
+eps",
+190,564.0,564,"PitPoint
+坑点",,,,,,,,,,,0.0,,"bei Helmond statt Balast Nedam
+2016 CNGNet ist nun Pitpoint
+赫尔蒙德附近，而不是巴拉斯特内达姆
+2016 CNGNet 现在是 Pitpoint","eps
+eps",
+191,565.0,565,"Idex
+Idex",,,,,,,"France
+法国",,,"www.idex.fr
+www.idex.fr",0.0,,,"eps
+eps",
+192,567.0,567,"HTEC Hydrogen Technology & Energy Corporation
+HTEC 氢技术与能源公司",,,,,,,"Canada
+加拿大",,,"www.htec.ca
+www.htec.ca",0.0,,,"eps
+eps",
+193,571.0,571,"Atlas Copco
+阿特拉斯-科普柯",,,,,,,"Sweden
+瑞典",,,"www.atlascopco.com
+www.atlascopco.com",0.0,,"Kompressoren
+压缩机","eps
+eps",
+194,573.0,573,"H2 Mobility
+H2 流动",,,,,,,"Germany
+德国",,,,0.0,,"H2 Mobility, tritt als Investor auf
+H2 Mobility, tritt as investors auf","eps
+eps",
+195,575.0,575,"EM Korea
+韩国",,,,,,,"Korea
+韩国",,,,0.0,,,"eps
+eps",
+196,576.0,576,"Kwangshin
+光信",,,,,,,"Korea
+韩国",,,,0.0,,,"eps
+eps",
+197,577.0,577,"Idemitsu Kosan Co., Ltd.
+出光兴产株式会社",,,,,,,"Japan
+日本",,,,0.0,,,"eps
+eps",
+198,580.0,580,"Black & Veatch
+博莱克威奇公司",,,,,,,"United States
+美国",,,,0.0,,,"eps
+eps",
+199,581.0,581,"H2 Energy AG
+H2 能源股份公司",,,,,,,"Switzerland
+瑞士",,,,0.0,,,"eps
+eps",
+200,582.0,582,"IBAarau
+IBAarau",,,,,,,"Switzerland
+瑞士",,,,0.0,,,"eps
+eps",
+201,587.0,587,"Centro Nacional del Hidrogeno
+国家艾滋病毒中心",,,,,,,"Spain
+西班牙",,,,0.0,,,"eps
+eps",
+202,589.0,589,"PDC Machines Inc.
+PDC 机器公司",,,,,,,,,,,0.0,,,"EPS
+每股盈余",
+203,597.0,597,"Power Cell Sweden AB
+瑞典动力电池公司",,"Ruskvädersgatan
+Ruskvädersgatan",,12.0,"SE-418 34
+SE-418 34","Gothenburg
+哥德堡","Sweden
+瑞典",,,http://www.powercell.se/,0.0,,,"Wtr
+水",
+204,598.0,598,"SwissHydrogen SA
+瑞士氢气公司",,"Passage du Cardinal
+红衣主教通道",,1.0,1700,"Fribourg
+弗里堡","Switzerland
+瑞士",,    info@swisshydrogen.ch ,http://swisshydrogen.ch/,0.0,,,"Wtr
+水",
+205,599.0,599,"Haskel
+哈斯科",,,,,,,,,,"www.haskel.com
+www.haskel.com",0.0,,"Haskel, a business of the Precision and Science Technologies Segment at Ingersoll Rand, is the high-pressure solution provider for critical applications in hydrogen, aviation, defense and aerospace, oil and gas, and other industries. With nearly 75 years of expertise, Haskel’s leadership in the market is built on a reputation of safety, reliability, and the highest quality. Ingersoll Rand (NYSE:IR), is a global leader in mission-critical flow creation and industrial technologies. For more information, visit www.IRCO.com.
+Haskel 是英格索兰精密和科学技术部门的一家企业，是氢气、航空、国防和航天、石油和天然气以及其他行业关键应用的高压解决方案供应商。凭借近 75 年的专业技术，Haskel 在市场上的领导地位建立在安全、可靠和最高质量的声誉之上。英格索兰（纽约证券交易所股票代码：IR）是关键任务流量创造和工业技术领域的全球领导者。欲了解更多信息，请访问 www.IRCO.com。","eps
+eps",
+206,600.0,600,"WH2
+WH2",,,,,,,"France
+法国",,,"www.wh2.fr
+www.wh2.fr",0.0,,,"eps
+eps",
+207,604.0,604,"Logan Energy
+洛根能源",,,,,,,"United Kingdom
+英国",,,http://www.loganenergy.com,0.0,,,"eps
+eps",
+208,606.0,606,"Shanghai Sunwise
+上海尚慧",,,,,,,"China
+中国",,,"www.sunnwise.sh.cn
+www.sunnwise.sh.cn",0.0,,"bei 635
+第 635 页","eps
+eps",
+209,612.0,612,"EDF
+EDF",,,,,,,"France
+法国",,,,0.0,,,"eps
+eps",
+210,619.0,619,"Tank & Rast
+坦克与拉斯特",,,,,,,,,,"www.tank.rast.de
+www.tank.rast.de",0.0,,,"eps
+eps",
+211,620.0,620,"Sunfire
+太阳火",,,,,,,,,,,0.0,,,"eps
+eps",
+212,622.0,622,"Colruyt
+Colruyt",,,,,,,"Belgium
+比利时",,,,0.0,,,"eps
+eps",
+213,624.0,624,"Resato International
+雷萨托国际",,,,,,,,,,,0.0,,"compressor system für 769
+压缩机系统 für 769","eps
+eps",
+214,627.0,627,"Naihai Ruihui company
+南海瑞辉公司",,,,,,,"China
+中国",,,,0.0,,"bei 634
+第 634 页","eps
+eps",
+215,628.0,628,"Atawey
+阿塔维",,,,,,,,,,,0.0,,"station 838
+838 号站","eps
+eps",
+216,630.0,630,"Metacon
+Metacon",,,,,,,"Sweden
+瑞典",,,"www.metacon.se
+www.metacon.se",0.0,,"Metacon is an international energy technology company based in Sweden and located in Karlskoga, whose overall business idea is to commercialize small and medium-sized energy systems for the production of hydrogen, electricity and heat from primarily biogas. 
+Metacon 是一家位于瑞典卡尔斯科加的国际能源技术公司，其总体经营理念是将主要利用沼气生产氢气、电力和热能的中小型能源系统商业化。","eps
+eps",
+217,634.0,634,"StratosFuel
+StratosFuel",,,,,,,,,,,0.0,,"station developer
+站长","eps
+eps",
+218,635.0,635,"Triple E Technologies LLC
+Triple E Technologies LLC",,,,,,,"United States
+美国",,,,0.0,,"software supplier
+软件供应商","eps
+eps",
+219,636.0,636,"Hydrogenious Technologies
+氢能技术",,,,,,,"Germany
+德国",,,,0.0,,"storage with LOHC
+与 LOHC 存储","eps
+eps",
+220,638.0,638,"ENGIE
+ENGIE",,,,,,,"France
+法国",,,,0.0,,"Energieversorger
+能源发电机","eps
+eps",
+221,641.0,641,"Yamamoto
+山本",,,,,,,"Japan
+日本",,,"www.yama-moto.jp
+www.yama-moto.jp",0.0,,,"eps
+eps",
+222,644.0,644,"EMS
+紧急医疗服务",,,,,,,"Germany
+德国",,,,0.0,,"Jülich , H2 storage
+尤利希 , H2 存储","eps
+eps",
+223,646.0,646,"WEMA
+WEMA",,,,,,,"Germany
+德国",,,,0.0,,"for the construction and operation of the gas station
+加油站的建设和运营","eps
+eps",
+224,647.0,647,"ANLEG GmbH
+ANLEG GmbH",,,,,,,"Germany
+德国",,,,0.0,,"a specialist in high-pressure gas equipment
+高压气体设备专家","eps
+eps",
+225,650.0,650,"Maximator GmbH
+Maximator GmbH",,,,,,,"Germany
+德国",,,,0.0,,"compressor manufacturer
+压缩机制造商","eps
+eps",
+226,653.0,653,"Kohodo Hydrogen Energy
+光堂氢能源",,,,,,,"China
+中国",,,"kohodoh2.com
+kohodoh2.com",,,,"eps
+eps",
+227,654.0,654,"Hyosung
+Hyosung",,,,,,,"Korea
+韩国",,,,,,"HRS provider
+人力资源服务提供者","eps
+eps",
+228,655.0,655,"NK Tech
+NK Tech",,,,,,,"Korea
+韩国",,,,,,"HRS provider
+人力资源服务提供者","eps
+eps",
+229,657.0,657,"EM Solution
+EM 解决方案",,,,,,,"Korea
+韩国",,,,,,"http://www.yesems.co.kr/eng/business/energy_h2_station.html
+HRS provider","eps
+eps",
+230,658.0,658,"H-TEC Systems
+H-TEC 系统",,,,,,,"Germany
+德国",,,"www.h-tec.com
+www.h-tec.com",,,"Elektrolyseure, wird von GP Joule übernommen, 2019 beteiligt sich MAN Energy Solutions, 2021 gibt GP Joule seien ANteile an MAN, aber weitere Zusammenarbeit bei eFarm Projekt
+电解槽由 GP Joule 接管，2019 年 MAN Energy Solutions 参股，2021 年 GP Joule 将股份转让给 MAN，但在 eFarm 项目上进一步合作。","eps
+eps",
+231,659.0,659,"Zhangjiagang Furui Hydrogen Power Equipment Co.
+张家港富瑞氢能设备有限公司",,,,,,,"China
+中国",,,"www.furuihp.com
+www.furuihp.com",,,,"eps
+eps",
+232,661.0,661,"Bennett Pump Company
+贝内特泵业公司",,,,,,,"United States
+美国",,,,,,"dispenser hersteller, erstmals Saudi-Arabien
+分配器制造商，首次进入沙特阿拉伯","eps
+eps",
+233,662.0,662,"Nikola
+尼古拉",,,,,,,"United States
+美国",,,,,,,"eps
+eps",
+234,663.0,663,"Sarawak Energy
+沙捞越能源",,,,,,,"Malaysia
+马来西亚",,,,,,,"eps
+eps",
+235,664.0,664,"Japan Hydrogen Station Network JHyM
+日本氢气站网络 JHyM",,,,,,,"Japan
+日本",,,,,,"Japan H2 Mobility Station Network established 2018
+Aiming to promote development of environments for the accelerated dissemination of fuel-cell vehicles (FCV), 11 companies, including hydrogen station operating businesses, automobile manufacturers, and financial investors, jointly established Japan H2 Mobility (JHyM), a new company with the mission of full-fledged development of hydrogen stations. Establishing this company will contribute to specifying a framework for accelerating the development of hydrogen stations, and the new company is expected to lead the acceleration of developing such stations and ensure steadier business management. The Ministry of Economy, Trade and Industry (METI), as well as this company, will accelerate initiatives for strategic development of hydrogen stations.
+2018 年建立日本 H2 流动站网络
+为了促进燃料电池汽车（FCV）加速普及的环境建设，氢气站运营企业、汽车制造商和金融投资者等 11 家公司联合成立了以全面开发氢气站为使命的新公司 Japan H2 Mobility（JHyM）。该公司的成立将有助于明确加快氢气站发展的框架，预计新公司将引领氢气站的加速发展，并确保业务管理更加稳定。经济产业省 (METI) 和该公司将加快氢气站战略发展的举措。","eps
+eps",
+236,665.0,665,"Sinopec Corp.
+中国石化股份有限公司",,,,,,,"China
+中国",,,"www.sinopec.com
+www.sinopec.com",,,"größter Öl und Gas Produzent Chinas
+中国最大的石油和天然气生产商","eps
+eps",
+237,666.0,666,"JNK Heaters Co., Ltd.
+JNK 加热器有限公司",,,,,,,"Korea
+韩国",,,"www.jnkheater.co.kr
+www.jnkheater.co.kr",,,"on-site HRS mit reforming
+现场 HRS mit 改革","eps
+eps",
+238,667.0,667,"HyNET Hydrogen Energy Network Co., Ltd.
+HyNET 氢能网络有限公司",,,,,,,"Korea
+韩国",,,,,,"joint venture in South Korea auch mit NEL
+与 NEL 在韩国的合资企业","eps
+eps",
+239,670.0,670,"Michelin
+米其林",,,,,,,"France
+法国",,,,,,,,
+240,671.0,671,"Hynion
+Hynion",,,,,,,"Norway
+挪威",,,"www.hynion.com
+www.hynion.com",,,"Nachfolger von Hyop
+CEO Ulf Hafseld
+erster name Hydrogenisk www.hydrogenisk.no, dann umbenannt auf Hynion
+Hyop 的继任者
+
+首席执行官 Ulf Hafseld
+原名 Hydrogenisk www.hydrogenisk.no，后更名为 Hynion","eps
+eps",
+241,671.0,671,"Hynion
+Hynion",,,,,,,"Norway
+挪威",,,"www.hynion.com
+www.hynion.com",,,"Nachfolger von Hyop
+CEO Ulf Hafseld
+erster name Hydrogenisk www.hydrogenisk.no, dann umbenannt auf Hynion
+Hyop 的继任者
+首席执行官 Ulf Hafseld
+原名 Hydrogenisk www.hydrogenisk.no，后更名为 Hynion","eps
+eps",
+242,671.0,671,"Hynion
+Hynion",,,,,,,"Norway
+挪威",,,"www.hynion.com
+www.hynion.com",,,"Nachfolger von Hyop
+CEO Ulf Hafseld
+erster name Hydrogenisk www.hydrogenisk.no, dann umbenannt auf Hynion
+Hyop 的合作伙伴
+首席执行官 Ulf Hafseld
+原名 Hydrogenisk www.hydrogenisk.no，后更名为 Hynion","eps
+eps",
+243,673.0,673,"Hydrospider
+水蜘蛛",,,,,,,"Switzerland
+瑞士",,,"hydrospider.ch
+hydrospider.ch",,,"besteht aus Alpiq und H2 Energy und Linde
+produziert grünen H2 über PtG Gösgen
+由 Alpiq 和 H2 Energy 以及林德组成
+通过 PtG Gösgen 生产绿色 H2","eps
+eps",
+244,678.0,678,"Rougeot Energie 
+鲁格能源 ",,,,,,,"France
+法国",,,http://www.rougeot-tp.com,,,,"eps
+eps",
+245,679.0,679,"Houpu
+后浦",,,,,,,"China
+中国",,,,,,"Joint Venture mit AL
+Joint Venture mit AL","eps
+eps",
+246,680.0,680,"Howden
+豪登",,,,,,,,,,"www.howden.com
+www.howden.com",,,"compressor
+压缩器","eps
+eps",
+247,,682,"Everfuel Europe A/S
+Everfuel Europe A/S",,,,,,,"Denmark
+丹麦",,,,,,"16.8.2019 Everfuel is established as Spin-off from Nel ASA
+25.11.2020 Everfuel will take a majority stake in H2 Fuel Norway, a fully owned company of Nel, and change the company name to Everfuel Norway Retail as part of a newly signed agreement.
+
+Nel ASA and Everfuel today (25th Nov) signed a Memorandum of Understanding (MoU) for the agreement which will see Everfuel Norway Retail build, own and operate hydrogen fueling stations in Norway, starting in Oslo.","eps
+eps",
+248,,690,"Hympulsion
+催乳",,,,,,,"France
+法国",,,,,,"shareholders Engie 22,8%, Michelin 22,8%, Auvergne-Rhone-Alpes Region (33&, Banque des Territoires 16,9%, Credit Agricole 4,6%, winner of the ADEME callfor projects 2019, responsible for deplying the stations in ZEV project
+股东：Engie 22.8%、米其林 22.8%、奥弗涅-罗纳-阿尔卑斯大区（33%）、国土银行 16.9%、农业信贷银行 4.6%。","eps
+eps",
+249,,690,"Hympulsion
+催乳",,,,,,,"France
+法国",,,,,,"shareholders Engie 22,8%, Michelin 22,8%, Auvergne-Rhone-Alpes Region (33&, Banque des Territoires 16,9%, Credit Agricole 4,6%, winner of the ADEME callfor projects 2019, responsible for deplying the stations in ZEV project
+股东：Engie 22,8%，米其林 22,8%，奥弗涅-罗纳-阿尔卑斯大区（33%），国土银行 16,9%，农业信贷银行 4,6%，2019 年 ADEME 项目征集活动获胜者，负责在 ZEV 项目中部署加油站","eps
+eps",
+250,,691,"Trillium
+三叶草",,,,,,,"United States
+美国",,,"www.trilliumcng.com
+www.trilliumcng.com",,,,"eps
+eps",
+251,,692,"Green Hydrogen Systems
+绿色氢气系统",,,,,,"Kolding
+科灵","Denmark
+丹麦",,,"www.greenhydrogen.dk
+www.greenhydrogen.dk",,,"unabhängig von NEL
+Green Hydrogen Systems designs and manufactures efficient, standardised and modular electrolysers for the production of green hydrogen with renewable energy.
+不含 NEL
+Green Hydrogen Systems 设计和制造高效、标准化和模块化的电解槽，用于利用可再生能源生产绿色氢气。","eps
+eps",
+252,,694,"Hysolar
+太阳能",,,,,,,"Netherlands
+荷兰",,,"www.hysolar.nl
+www.hysolar.nl",,,"gehör Jos Scholman, Allied Waters, KWR
+听取了 Jos Scholman、Allied Waters、KWR 的发言","eps
+eps",
+253,,695,"Ekinetix BV
+Ekinetix BV",,,,,,,,,,"www.ekinetix.nl
+www.ekinetix.nl",,,"Planungsfirma, mehrere Projekte auf Homepage
+规划公司，主页上有几个项目","eps
+eps",
+254,,696,"FASTECH
+FASTECH",,,,,,"Buena Park , CA
+布埃纳帕克 , 加利福尼亚州","United States
+美国",,,"www.fastechus.com
+www.fastechus.com",,,"station construction (Bauarbeiten),
+hat 25+ HRS gebaut
+车站建设（建筑工程）、
+
+已建成 25+ HRS","eps
+eps",
+255,,697,"Fiedlergroup
+费德勒集团",,,,,,"Pasadena, CA
+加利福尼亚州帕萨迪纳","United States
+美国",,,"www.fiedlergroup.com
+www.fiedlergroup.com",,,"Desgin, enginieering, permit acquisition
+设计、工程、许可证获取","eps
+eps",
+256,,698,"NCI Nicosia Contracting International LLC.
+NCI 尼科西亚国际承包有限责任公司。",,,,,,"Cape Coral, FL
+佛罗里达州珊瑚角","United States
+美国",,,"www.nicosiallc.com
+www.nicosiallc.com",,,"NCI is a full service Contracting, Consulting and Construction Management firm
+NCI 是一家提供全面服务的承包、咨询和施工管理公司",,
+257,,703,"Hydro-pac
+Hydro-pac",,,,,,,"Korea
+韩国",,,,,,,"eps
+eps",
+258,,705,"Valmax
+Valmax",,,,,,,"Korea
+韩国",,,,,,,"eps
+eps",
+259,,706,"Bumhan Fuel Cell
+布姆汉燃料电池",,,,,,,"Korea
+韩国",,,http://bumhanfuelcell.com,,,Übersicht ihrer HRS auf http://bumhanfuelcell.com/en/hydrogenRefueling.php,"eps
+eps",
+260,,707,"ErreDue
+ErreDue",,,,,,,,,,"www.erreduegas.it
+www.erreduegas.it",,,"EL bei 1157, Logan Energy spricht von ErreDure UK, aber IT!?
+Electrolyser für Puertollano, ES
+EL at 1157, Logan Energy 谈论 ErreDure UK, but IT!
+
+ES Puertollano 的电解槽","eps
+eps",
+261,,709,"Antai Environmental Engineering Technology Co., Ltd. 
+安泰环境工程技术有限公司 ",,,,,,,"China
+中国",,,,,,"Antai Environmental Engineering Technology Co., Ltd. was formed by the integration of the filter material branch of the original powder metallurgy division, the engineering technology division, and Ningbo Chemical Research and Design Institute Co., Ltd. Antai Environmental Engineering Technology Co., Ltd. was established in 2015. With environmental control services as the core, it has formed three major business segments: industrial filtration and purification, clean energy engineering and advanced intelligent manufacturing. It is a company that focuses on clean energy utilization and clean energy technology and has product development and manufacturing, equipment matching, system integration, and engineering design. And a comprehensive environmental control service provider with general contracting capabilities.
+Antai Environment has independently researched and developed a complete set of equipment such as a hydrogen long-tube trailer unloading module (unloading column), high-pressure buffer tank module (sequence control panel), 35MPa hydrogen refueling machine, and 70MPa hydrogen refueling machine, for the construction of hydrogen refueling stations and EPC The project provides support services.
+Antai Environment provides reliable and efficient hydrogen production and a complete set of hydrogen refueling solutions. It can also provide customized hydrogen production and hydrogenation solutions, key hydrogenation equipment, hydrogen production plants, and hydrogen refueling stations according to different working conditions of hydrogen energy applications. Technical services for EPC engineering, hydrogen production plants, and hydrogen refueling stations.
+
+安泰环境工程技术有限公司 安泰环境工程技术有限公司由原粉末冶金事业部滤料分厂、工程技术事业部和宁波化工研究设计院有限公司整合而成。安泰环境工程技术有限公司 安泰环境工程技术有限公司成立于2015年。公司以环境治理服务为核心，形成了工业过滤净化、清洁能源工程、先进智能制造三大业务板块。是一家以清洁能源利用和清洁能源技术为核心，集产品研发制造、设备配套、系统集成、工程设计于一体的企业。并具有工程总承包能力的环境治理综合服务商。
+安泰环境自主研发了氢气长管拖车卸载模块（卸载柱）、高压缓冲罐模块（顺序控制面板）、35MPa 加氢机、70MPa 加氢机等成套设备，为加氢站的建设和 EPC 项目提供配套服务。
+安泰环境提供可靠、高效的制氢和全套加氢解决方案。还可根据氢能应用的不同工况，提供定制的制氢和加氢解决方案、关键加氢设备、制氢装置和加氢站。为 EPC 工程、制氢装置和加氢站提供技术服务。
+.","eps
+eps",
+262,,710,"Zhejiang Lanneng Gas Equipment Co., Ltd. 
+浙江蓝能燃气设备有限公司 ",,,,,,,"China
+中国",,,,,,"Zhejiang Lanneng Gas Equipment Co., Ltd. was established in 2009. Its main shareholders are Shanghai Shenergy, Henan Keyuan Industrial Investment Fund and Shaoxing Shangyu Hangzhou Bay Construction and Development Group Co., Ltd. It is a company integrating R&D, manufacturing, sales and service. A specialized gas storage and transportation equipment manufacturing enterprise integrating system integration.
+On June 8, 2020, the 45MPa hydrogen storage bottle container set for hydrogen refueling station independently developed and designed by Zhejiang Lanneng officially completed the manufacture and delivery of the first set.
+
+浙江蓝能燃气设备有限公司成立于2009年。其主要股东为上海申能、河南科远产业投资基金和绍兴上虞杭州湾建设发展集团有限公司。公司集研发、制造、销售、服务于一体。集系统集成于一体的专业化气体储运装备制造企业。
+2020年6月8日，浙江蓝能自主研发设计的加氢站用45MPa储氢瓶容器组正式完成制造并交付首套。","eps
+eps",
+263,,711,"Zhongding Hengsheng Gas Equipment Co., Ltd.
+中鼎恒升气体设备有限公司",,,,,,,"China
+中国",,,,,,"Beijing Zhongding Hengsheng Gas Equipment Co., Ltd./Zhongding Hengsheng Gas Equipment (Wuhu) Co., Ltd. is a professional design and manufacturer of diaphragm compressors, focusing on supplying various gas diaphragm compressor products and providing technical services and spare parts. The designed exhaust pressure is 20MPa, 45MPa and 90MPa, and the flow rate ranges from 50 standard cubic meters to 2000 standard cubic meters per hour. The diaphragm compressors of hydrogen refueling stations all adopt unattended design schemes, which have higher safety and reliability.
+Zhongding Hengsheng has been involved in the high-pressure field for more than ten years. It has provided more than 2,000 20MPa hydrogen compressors for hydrogen production plants, and the market share of large-flow compressors in domestic hydrogen filling plants has accounted for 90%. It is also a mine, Petroleum oil wells provide 80-100MPa ultra-high pressure compressors, and the equipment is exported to India and Taiwan. At present, Zhongding has cooperated with many domestic hydrogen refueling station construction enterprises, such as Guofu Hydrogen Energy, Shunhua, Houp, and Hydrogen Maple have cooperation with Zhongding Hengsheng.
+
+北京中鼎恒盛气体设备有限公司/中鼎恒盛气体设备（芜湖）有限公司是隔膜压缩机的专业设计和制造商，专注于提供各种气体隔膜压缩机产品，并提供技术服务和备件。设计排气压力为 20MPa、45MPa 和 90MPa，流量范围为每小时 50 标准立方米至 2000 标准立方米。加氢站隔膜压缩机均采用无人值守设计方案，具有更高的安全性和可靠性。
+中鼎恒盛涉足高压领域已有十余年。已为制氢装置提供 2000 多台 20MPa 制氢压缩机，大流量压缩机在国内加氢装置的市场占有率达 90%。还为矿山、石油油井提供 80-100MPa 超高压压缩机，设备出口印度、台湾等地。目前，中鼎已与国内多家加氢站建设企业合作，如国富氢能、顺华、厚普、氢枫等都与中鼎恒升有合作。","eps
+eps",
+264,,712,"APEX Group
+APEX 集团",,,,,,,"Germany
+德国",,,"www.apex-group.de
+www.apex-group.de",,,"Gesamtenergiesysteme
+vorsicht nicht appexgroup.com !
+综合能源系统
+请勿使用 appexgroup.com ！","eps
+eps",
+265,,717,"Unipetrol
+Unipetrol",,,,,,,"Poland
+波兰",,,,,,"gehört zur PKN Orlen Group
+属于 PKN Orlen 集团",,
+266,,718,"Bonett Group
+波尼特集团",,,,,,,"Poland
+波兰",,,,,,"the Bonett Group – the largest supplier of alternative fuel stations in Central Europe and the second largest CNG seller in the Czech Republic. The Group operates on the Czech, Polish and Slovak markets, focusing on investments, running and deliveries of alternative fuel stations.
+博内特集团--中欧最大的替代燃料站供应商和捷克共和国第二大 CNG 销售商。该集团在捷克、波兰和斯洛伐克市场开展业务，专注于替代燃料站的投资、运营和交付。","eps
+eps",
+267,,718,"Bonett Group
+波尼特集团",,,,,,,"Poland
+波兰",,,,,,"the Bonett Group – the largest supplier of alternative fuel stations in Central Europe and the second largest CNG seller in the Czech Republic. The Group operates on the Czech, Polish and Slovak markets, focusing on investments, running and deliveries of alternative fuel stations.
+博内特集团是中欧最大的替代燃料站供应商，也是捷克共和国第二大 CNG 销售商。该集团在捷克、波兰和斯洛伐克市场开展业务，专注于替代燃料站的投资、运营和交付。","eps
+eps",
+268,,721,"CMB. TECH
+CMB. 技术",,,,,,,"Belgium
+比利时",,,https://cmb.tech,,,"CMB.TECH, part of CMB (Compagnie Maritime Belge
+CMB.TECH，隶属于 CMB（Compagnie Maritime Belge）。",,
+269,,722,"Altereco - Wolftank-Adisa Group
+Altereco - Wolftank-Adisa 集团",,,,,,,"Austria
+奥地利",,,"wolftank.com
+wolftank.com",,,"Altereco, the Spanish arm of Wolftank-Adisa Group
+Wolftank-Adisa Group
+Grabenweg 58
+6020 Innsbruck
+Austria
++43 512 345 726
++43 512 345 726 89
+wolftank.com
+Altereco，Wolftank-Adisa 集团的西班牙分公司
+沃尔夫坦克-阿迪萨集团
+Grabenweg 58
+6020 因斯布鲁克
+奥地利
++43 512 345 726
++43 512 345 726 89
+wolftank.com","eps
+eps",
+270,,723,"Enagás
+埃纳加斯",,,,,,,"Spain
+西班牙",,,,,,,"eps
+eps",
+271,,724,"Tenaris
+特纳里斯",,,,,,,,,,,,,,,
+272,,726,"H2Point
+H2Point",,,,,,,"Netherlands
+荷兰",,,"www.h2point.nl
+www.h2point.nl",,,,"eps
+eps",
+273,,727,"Chesterfield Special Cylinders CSC
+切斯特菲尔德特殊气缸 CSC",,,,,,,,,,,,,"wholly owned subsidary of Pressure Technologies 
+a contract with Haskel Hydrogen Group (Haskel), part of the Precision and Science Technologies Segment at Ingersoll Rand Inc. (NYSE:IR) for the supply of high-pressure Type 1 steel vessels to be used for hydrogen storage in three new Hydrogen Refuelling Stations (“HRS”). CZ
+压力技术公司的全资子公司 
+与英格索兰公司（纽约证券交易所股票代码：IR）精密和科学技术部门旗下的 Haskel Hydrogen Group (Haskel) 签订合同，供应高压 1 型钢制容器，用于三个新加氢站（""HRS""）的氢气储存。CZ","eps
+eps",
+274,,728,"ENGV
+ENGV",,,,,,,"Australia
+澳大利亚",,,"engv.com.au
+engv.com.au",,,"ENGV are proud to be Nel’s Australian partner for PEM and Alkaline electrolyser technologies.
+ENGV Pty Ltd was established in 2013 as a full-service provider to meet the needs of customers in all areas of gas storage, vehicle and transport. Since the beginning, our services have included the supply and maintenance of CNG fuelling stations, CNG and LNG vehicle & bulk trailers, conversions and fit-outs and the supply of vehicle and conversion parts.
+ENGV 很荣幸成为 Nel 在澳大利亚的 PEM 和碱性电解槽技术合作伙伴。
+ENGV Pty Ltd 成立于 2013 年，是一家提供全方位服务的公司，旨在满足客户在天然气储存、车辆和运输等所有领域的需求。自成立以来，我们的服务包括供应和维护 CNG 加气站、CNG 和 LNG 车辆及散装拖车、改装和装修以及供应车辆和改装零部件。","eps
+eps",
+275,,729,"IVYS Energy Solutions
+IVYS 能源解决方案",,,,,,"Waltham, Massachusetts, USA 02451
+美国马萨诸塞州沃尔瑟姆 02451","United States
+美国",,,"www.ivysinc.com
+www.ivysinc.com",,,"Ivys Inc. is a leading solutions provider delivering effective engineering services and products to the global energy, renewables and hydrogen markets.
+SimpleFuel including Ivys and our partners PDC Machines and McPhy Energy NA,
+Ivys Inc. 是一家领先的解决方案供应商，为全球能源、可再生能源和氢能市场提供有效的工程服务和产品。
+SimpleFuel 包括 Ivys 以及我们的合作伙伴 PDC Machines 和 McPhy Energy NA、","eps
+eps",
+276,,730,"Hiringa
+希林加",,,,,,,"New Zealand
+新西兰",,,"www.hiringa.co.nz
+www.hiringa.co.nz",,,"Together with our partners, we are establishing a production, distribution and refuelling infrastructure to enable the adoption of hydrogen solutions.
+Hiringa has been developing a hydrogen production and refuelling network across New Zealand focused primarily on the heavy vehicles market. 
+我们正在与合作伙伴一起建立生产、销售和加气基础设施，以便采用氢气解决方案。
+Hiringa 一直在新西兰各地开发氢气生产和加气网络，主要集中在重型车辆市场。","eps
+eps",
+277,,731,"GP Joule
+GP 焦耳",,,,,,,"Germany
+德国",,,"www.gp-joule.de
+www.gp-joule.de",,,"war 10 Jahre Mutterkonzern von H-TEC, aber dann Anteile an MAN verkauft; weiter Zusammenarbeit mit H-TEC
+曾是 H-TEC 的母公司达 10 年之久，后将股份出售给 MAN；继续与 H-TEC 合作","eps
+eps",
+278,,732,"Wolftank
+沃尔夫坦克",,,,,,,"Austria
+奥地利",,,"www.wolftank.com
+www.wolftank.com",,,"Wolftank Hydrogen GmbH wolftank-hydrogen.com Bozen Italy
+Group in Innsbruck
+Wolftank Hydrogen GmbH wolftank-hydrogen.com Bozen 意大利
+因斯布鲁克集团","eps
+eps",
+279,,733,"HRS Hydrogen refueling solutions
+HRS 加氢解决方案",,,,,,,"France
+法国",,,"www.hydrogen-refueling-solutions.fr
+www.hydrogen-refueling-solutions.fr",,,,"eps
+eps",
+280,,735,"Obayashi Corp.
+小林公司",,,,,,,"Japan
+日本",,,"www.obayashi.co.jp
+www.obayashi.co.jp",,,"Bauunternehmen
+建筑承包商","eps
+eps",
+281,,736,"Ryze Hydrogen
+Ryze Hydrogen",,,,,,,"United Kingdom
+英国",,,https://ryzehydrogen.com/,,,"produce and transport green  H2
+生产和运输绿色 H2","eps
+eps",
+282,,737,"Luxfer
+Luxfer",,,,,,,"United Kingdom
+英国",,,"www.luxfer.com
+www.luxfer.com",,,"Druckgaszylinder
+global headquarters are located in the U.K. and our North American headquarters in Milwaukee, Wisconsin
+Druckgaszylinder
+全球总部位于英国，北美总部位于威斯康星州密尔沃基市","eps
+eps",
+283,,739,"H2H Energy
+H2H 能源",,,,,,,"Australia
+澳大利亚",,,"www.h2henergy.com.au
+www.h2henergy.com.au",,,"H2H is a hydrogen specific technical consultancy, functioning as either owners engineer or supplying complete end to end project delivery solutions, typically in partnership with larger consultancies/project delivery partners, depending on the size of the project.
+H2H 是一家专门从事氢能技术咨询的公司，既可以作为业主工程师，也可以提供完整的端到端项目交付解决方案，通常与大型咨询公司/项目交付合作伙伴合作，具体视项目规模而定。","eps
+eps",
+284,,741,"Konan Kogyo
+科南工业",,,,,,,"Japan
+日本",,,"www.konankogyo.jp/
+www.konankogyo.jp/",,,"gehört zu ENEOS, AISIN Group
+隶属于 ENEOS、AISIN 集团","eps
+eps",
+285,,742,"KOHYGEN
+KOHYGEN",,,,,,,"Korea
+韩国",,,https://kohygen.co.kr,,,"Bauen tankstellen in Korea so ähnlich wie H2 Mobility
+在韩国建设类似 H2 Mobility 的加气站","eps
+eps",
+286,,744,"SHV Energy China
+SHV 能源中国",,,,,,,,,,"www.xiweigas.com
+www.xiweigas.com",,,"Ableger von NL SH Energy www.shvenergy.com und heißt in China Xiwei http://www.xiweigas.com
+NL SH Energy www.shvenergy.com 的分支，在中国被称为 Xiwei http://www.xiweigas.com","eps
+eps",
+287,,745,"Idro Meccanica
+Idro Meccanica",,,,,,,"Italy
+意大利",,,http://www.idromeccanica.it,,,"Kompressoren
+压缩机","eps
+eps",
+288,,749,"Skai Energies
+斯凯能源公司",,,,,,"Melbourne
+墨尔本","Australia
+澳大利亚",,,https://www.skaienergies.com/,,,"stammt von Nilsson Energy Sweden
+laktiv in Australia
+stand alone power systems
+来自瑞典 Nilsson 能源公司
+活跃于澳大利亚
+独立电力系统","eps
+eps",
+289,,750,"Nilsson Energy
+尼尔森能源公司",,,,,,,"Sweden
+瑞典",,,https://nilssonenergy.com/,,,"off-grid systeme
+离网系统","eps
+eps",
+290,,755,"Haffner Energy
+哈夫纳能源公司",,,,,,,"France
+法国",,,"www.haffner-energy.com
+www.haffner-energy.com",,,"H2 aus organic waste Hynoca process
+H2 aus 有机废物 Hynoca 工艺","eps
+eps",
+291,,758,"Lhyfe
+Lhyfe",,,,,,,"France
+法国",,,"www.lhyfe.com
+www.lhyfe.com",,,"EL Hersteller , erste EL off shore wind
+EL Hersteller, erste EL offshore wind","eps
+eps",
+292,,760,"SHiE
+SHiE",,,,,,,"Spain
+西班牙",,,,,,"Arpa Equipos Móviles de Campaña and Grupo Zoilo Ríos are have come together to launch SHiE with a clear purpose, to offer comprehensive solutions for the generation, transport, storage and dispensing of green hydrogen, produced 100% from renewable resources such as photovoltaic solar energy or wind energy.
+Arpa Equipos Móviles de Campaña 和 Grupo Zoilo Ríos 共同推出 SHiE 的目的很明确，就是为绿色氢气的生产、运输、储存和分配提供全面的解决方案，这些氢气 100% 由光伏太阳能或风能等可再生资源生产。","eps
+eps",
+293,,761,"Kustec
+库斯泰克",,,,,,,"Austria
+奥地利",,,"www.kustec.at/
+www.kustec.at/",,,"Kälteanlage Wien BUs HRS
+维也纳各单位的制冷设备 HRS","eps
+eps",
+294,,762,"Calvera
+卡尔维拉",,,,,,,"Spain
+西班牙",,,"www.calvera.es
+www.calvera.es",,,,"eps
+eps",
+295,,764,"Sato Fuel Co. Ltd.
+佐藤燃料株式会社 佐藤燃料株式会社",,,,,,,"Japan
+日本",,,,,,,"eps
+eps",
+296,,765,"Censtar
+Censtar",,,,,,,"China
+中国",,,"www.censtargroup.com/censtar/
+www.censtargroup.com/censtar/",,,,"eps
+eps",
+297,,766,"Hypion GmbH
+Hypion GmbH",,,,,,,"Germany
+德国",,,https://hypion.eu,,,"Projektentwickler
+项目开发人员","eps
+eps",
+298,,767,"Element 2
+要素 2",,,,,,,"United Kingdom
+英国",,,"www.element-2.co.uk
+www.element-2.co.uk",,,"scheint noch junge Firma zu sein, die HRS Standorte entwickelt, Kein direkter Technologylieferant. News Seite nicht aktuell siehe Teeside 1491
+似乎是一家开发 HRS 站点的年轻公司，而不是直接的技术供应商。新闻页面未更新，请参见提赛德 1491","eps
+eps",
+299,,768,"Toagosei Co., Ltd.
+Toagosei Co.",,,,,,,"Japan
+日本",,,https://www.toagosei.co.jp/english/,,,,"eps
+eps",
+300,,770,"Millennium Reign Energy LLC
+Millennium Reign Energy LLC",,,,,,"Dayton
+代顿","United States
+美国",,,,,,"https://residentialhydrogenpower.com/
+mreh2.com
+war schon persönl. Kontakt","eps
+eps",
+301,,771,"Framatome Covalion
+Framatome Covalion",,,,,,,"France
+法国",,,"www.framatome.com www.cavalion.net
+www.framatome.com www.cavalion.net",,,"wohl hauptsächlich Framatome GmbH in De kümmert sich um EL und HRS
+https://www.framatome.com/solutions-portfolio/portfolio/product?product=A1752
+besteht noch Verbindung zu Arevah2gen die jetzt zu Elogenh2 geworden sind?
+Covalion ist Brand von Frameatome
+可能主要是德国的 Framatome GmbH 负责 EL 和 HRS。
+https://www.framatome.com/solutions-portfolio/portfolio/product?product=A1752
+Arevah2gen 现在已成为 Elogenh2，它与 Arevah2gen 是否还有联系？
+Covalion 是 Frameatome 的一个品牌。","eps
+eps",
+302,,771,"Framatome Covalion
+Framatome Covalion",,,,,,,"France
+法国",,,"www.framatome.com www.cavalion.net
+www.framatome.com www.cavalion.net",,,"wohl hauptsächlich Framatome GmbH in De kümmert sich um EL und HRS
+https://www.framatome.com/solutions-portfolio/portfolio/product?product=A1752
+besteht noch Verbindung zu Arevah2gen die jetzt zu Elogenh2 geworden sind?
+Covalion ist Brand von Frameatome
+可能主要是德国的 Framatome GmbH 公司负责 EL 和 HRS。
+https://www.framatome.com/solutions-portfolio/portfolio/product?product=A1752
+Arevah2gen 现在已成为 Elogenh2，它与 Arevah2gen 是否还有联系？
+Covalion 是 Frameatome 的一个品牌。","eps
+eps",
+303,,775,"PRF - GAS, TECNOLOGIA E CONSTRUCAO, S.A.
+PRF - GAS, TECNOLOGIA E CONTRUCAO, S.A",,,,,,"Azoia – Leiria
+阿索亚 - 莱里亚","Portugal
+葡萄牙",,,"www.prf.pt
+www.prf.pt",,,,"eps
+eps",
+304,,781,"Fusion Fuel
+聚变燃料",,,,,,,,,,"www.fusion-fuel.eu
+www.f",,,"Irland und Portugal
+in Spanien tätig
+Vedrsorgung green H2
+爱尔兰和葡萄牙
+活跃于西班牙
+绿色 H2",,
+305,,782,"Wystrach
+Wystrach",,,,,,,"Germany
+德国",,,,,,"gehört zu Hexagon ?
+属于 Hexagon ?","eps
+eps",
+306,,787,"Schwelm Anlagentechnik GmbH
+Schwelm Anlagentechnik GmbH",,,,,,,"Germany
+德国",,,https://www.schwelm-at.de,,,"bauen HRS Haren  Niedrsachsen
+建造 HRS 哈伦下萨克森州","eps
+eps",
+307,,792,"CIMC Hydrogen Energy Technology
+中集集团氢能源技术",,,,,,,"China
+中国",,,,,,"CIMC Hydrogen Energy Technology (Beijing)
+Co., Ltd., a subsidiary of CIMC Enric Holdings Limited
+中集氢能源技术（北京）
+
+C","eps
+eps",
+308,,793,"NanoSun
+纳米太阳",,,,,,,"United Kingdom
+英国",,,"www.nanosun.co.uk
+www.nanosun.co.uk",,,"mobile HRS
+移动 HRS","eps
+eps",
+309,,795,"SANY Hydrogen Energy Co., Ltd.
+三一氢能源有限公司",,,,,,,"China
+中国",,,"www.sanyglobal.com
+www.s",,,"subsidiary of Sany Group
+三一集团子公司","eps
+eps",
+310,,796,"Guangtai Hydrogen Energy
+广泰氢能",,,,,,,"China
+中国",,,,,,,"eps
+eps",
+311,,798,"Carlsun Energy Solutions
+卡尔森能源解决方案",,,,,,,"Canada
+加拿大",,,"www.carlsun.com
+www.carlsun.com",,,"Carlsun Energy Solutions (“Carlsun Energy”) is an independently owned Canadian engineering and contracting company with over 20 years of combined experience on large-scale renewable energy projects and hydrogen integration for industry. Carlsun Energy is leading market development in the hydrogen sector with numerous decarbonization projects currently underway in Ontario.
+Carlsun Energy Solutions（以下简称 ""Carlsun Energy""）是加拿大一家独立经营的工程承包公司，在大型可再生能源项目和工业氢气集成方面拥有 20 多年的综合经验。Carlsun Energy 引领着氢能领域的市场发展，目前正在安大略省开展众多脱碳项目。","eps
+eps",
+312,,800,"Hype
+海普",,,,,,,"France
+法国",,,"hype.taxi
+炒作出租车",,,"Betreibt H2 taxis in Paris und baut weiter aus
+在巴黎运营 H2 出租车并继续扩张","eps
+eps",
+313,,802,"Emerson
+爱默生",,,,,,,,,,"www.emerson.com
+www.e",,,"Sicherheitsequipment, valves, arbeitet mit Kohygen Korea zusammen
+安全设备、阀门与韩国 Kohygen 公司合作","eps
+eps",
+314,,803,"VINCI
+VINCI",,,,,,,"France
+法国",,,"www.vinci.com
+www.vinci.com",,,"Baufirma  VINCI Concessions 
+VINCI Energies 
+baut mit Hype
+Baufirma VINCI 特许经营公司 
+
+VINCI 能源 
+baut mit Hype","eps
+eps",
