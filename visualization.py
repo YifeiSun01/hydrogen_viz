@@ -33,23 +33,11 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-def change_date_1(x):
+def change_date(x):
     try:
-        return datetime.strptime(x, '%m/%d/%Y')
+        return datetime.strptime(x,"%Y-%m-%d")
     except:
-        try:
-            return datetime.strptime(x, '%d.%m.%Y')
-        except:
-            return datetime.today().date()
-
-def change_date_2(x):
-    try:
-        return datetime.strptime(x, '%m/%d/%Y')
-    except:
-        try:
-            return datetime.strptime(x, '%d.%m.%Y')
-        except:
-            return None
+        return None
 
 def generate_date_range(start_date, end_date):
     date_range = []
@@ -95,14 +83,8 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
     df_companies = pd.read_csv("companies data chinese english.csv",index_col=[0])
     df_companies["CompanyName\n公司名称"] = df_companies["CompanyName\n公司名称"].apply(lambda x: " ".join(x.split("\n")))
     df.iloc[:,-8:] = df.iloc[:,-8:].fillna(0)
-    
-    df[["EndDate\n结束日期","UpdateDate\n更新日期"]] = df[["EndDate\n结束日期","UpdateDate\n更新日期"]].applymap(change_date_1)
-    df[["StartDate\n开始日期"]] = df[["StartDate\n开始日期"]].applymap(change_date_2)
-    # df["StartDate\n开始日期"] = df["StartDate\n开始日期"].dt.date
-    # df["EndDate\n结束日期"] = df["EndDate\n结束日期"].dt.date
-    # df["UpdateDate\n更新日期"] = df["UpdateDate\n更新日期"].dt.date
-    df["StartDate\n开始日期"] = df["StartDate\n开始日期"].apply(lambda ts: ts.to_pydatetime())
-    df["EndDate\n结束日期"] = df["EndDate\n结束日期"].apply(lambda ts: ts.to_pydatetime())
+    df["EndDate\n结束日期"] = df["EndDate\n结束日期"].apply(change_date)
+    df["StartDate\n开始日期"] = df["StartDate\n开始日期"].apply(change_date)
     
     selected_option_4 = st.radio("Select an option\n选择一个选项",["Show in Charts\n以图表展示","Show in Maps\n以地图展示","Show Raw Data\n展示原始数据"])
     if selected_option_4 == "Show in Charts\n以图表展示":
