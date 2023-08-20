@@ -98,6 +98,11 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
     
     df[["EndDate\n结束日期","UpdateDate\n更新日期"]] = df[["EndDate\n结束日期","UpdateDate\n更新日期"]].applymap(change_date_1)
     df[["StartDate\n开始日期"]] = df[["StartDate\n开始日期"]].applymap(change_date_2)
+    # df["StartDate\n开始日期"] = df["StartDate\n开始日期"].dt.date
+    # df["EndDate\n结束日期"] = df["EndDate\n结束日期"].dt.date
+    # df["UpdateDate\n更新日期"] = df["UpdateDate\n更新日期"].dt.date
+    df["StartDate\n开始日期"] = df["StartDate\n开始日期"].apply(lambda ts: ts.to_pydatetime())
+    df["EndDate\n结束日期"] = df["EndDate\n结束日期"].apply(lambda ts: ts.to_pydatetime())
     
     selected_option_4 = st.radio("Select an option\n选择一个选项",["Show in Charts\n以图表展示","Show in Maps\n以地图展示","Show Raw Data\n展示原始数据"])
     if selected_option_4 == "Show in Charts\n以图表展示":
@@ -500,7 +505,7 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
                         st_pyecharts(grid, height=600, width=1000)
         
             if selected_option_2 == "Show Stations of a Country by Years\n按年份展示某国家的加氢站":
-                selected_option_3 = st.selectbox("Select an option\n选择一个选项", ["Status\n状态", "PublicAccess\n公共访问", "Fuel\n燃料"], index=0)
+                selected_option_3 = st.selectbox("Select an option\n选择一个选项", ["Status\n状态", "PublicAccess\n公共访问", "Fuel\n燃料"], index=0, key="selected_option_3")
                 if selected_option_3 != "Fuel\n燃料":
                     selected_country = st.selectbox("Select a country\n选择一个国家",remove_duplicates(sorted(list(df["Country\n国家"]))),index=remove_duplicates(sorted(list(df["Country\n国家"]))).index("Japan\n日本"))
                     df = df[df["Country\n国家"]==selected_country]
@@ -793,7 +798,7 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
                 df = df[df[column]==selected_option_3]
             selected_option_2 = st.radio("Select an option\n选择一个选项", ["Show Stations' Operators in All Years\n展示所有年份的加氢站的运营商", 
                                                                       "Show Stations' Operators by Year\n按年份展示加氢站的运营商"], index=0)
-            if selected_option_2 == "Show Stations' Operators by Year\n按年份展示加氢站":
+            if selected_option_2 == "Show Stations' Operators by Year\n按年份展示加氢站的运营商":
                 start_date_2 = datetime(df["StartDate\n开始日期"].min().year,df["StartDate\n开始日期"].min().month,1)
                 end_date = datetime(datetime.today().date().year,datetime.today().date().month,1) - relativedelta(months=1)
                 for day in generate_date_range(start_date_2, end_date):
@@ -1133,7 +1138,6 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
         st.write(df_companies)
 if selected_topic == "Hydrogen Safety Incidents\n氢气安全事故":
     st.header("Hydrogen Safety Incidents 氢气安全事故")
-    
     df = pd.read_csv("hydrogen data chinese english.csv",index_col=[0])
     df["Incident Date\n事件日期"] = df["Incident Date\n事件日期"].apply(lambda x: datetime.strptime(x.split("\n")[0], '%d-%b-%Y'))
     selected_option_6 = st.radio("",["See Visualization\n展示可视化","Show Raw Data\n展示原始数据"])
@@ -1144,7 +1148,6 @@ if selected_topic == "Hydrogen Safety Incidents\n氢气安全事故":
             df = df[df["Incident Date\n事件日期"]!=None][(df["Incident Date\n事件日期"]>datetime(min_year,1,1))&(df["Incident Date\n事件日期"]<datetime(max_year,12,31))]
         columns_to_select = list(df.columns)[2:13]+[list(df.columns)[-1]]
         selected_column = st.selectbox("Choose a feature to visualize:\n选择一个特征进行可视化:",columns_to_select)
-        
         if selected_column in ["Severity\n严重性","Leak\n泄漏","Ignition\n点火","Characteristics\n特点","When Incident Discovered\n事故发现时间"]:
             pie_data = sorted(list(Counter(df[selected_column].str.split(", ").explode()).items()),key=lambda x: x[1], reverse=True)[::-1]
             pie_chart = (
