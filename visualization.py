@@ -6,7 +6,7 @@ from pyecharts.charts import Pie, Bar, Grid
 from streamlit_echarts import st_pyecharts
 import re
 from collections import Counter
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from dateutil.relativedelta import relativedelta
 import folium
 from streamlit_folium import st_folium
