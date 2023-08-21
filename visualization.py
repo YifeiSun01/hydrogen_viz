@@ -142,6 +142,8 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
     )
                 st_pyecharts(pie_chart, height=600)
             if selected_option_2 == "Show Stations by Year\n按年份展示加氢站":
+                df['StartDate\n开始日期'] = df['StartDate\n开始日期'].apply(lambda x: pd.Timestamp(x))
+                df['EndDate\n结束日期'] = df['EndDate\n结束日期'].apply(lambda x: pd.Timestamp(x))
                 col4, col5 = st.columns([5,1])
                 with col4:
                     start_date_2 = datetime(df["StartDate\n开始日期"].min().year,df["StartDate\n开始日期"].min().month,1)
@@ -156,8 +158,6 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
                     col4.selected_month = st.select_slider("Select a month:",
                                                 options=date_range,
                                                 format_func=lambda date: date.strftime("%b %Y"))
-                df['StartDate\n开始日期'] = df['StartDate\n开始日期'].apply(lambda x: pd.Timestamp(x))
-                df['EndDate\n结束日期'] = df['EndDate\n结束日期'].apply(lambda x: pd.Timestamp(x))
                 df_partial = df[df["StartDate\n开始日期"]!=None][(df["StartDate\n开始日期"]<col4.selected_month)&(df["EndDate\n结束日期"]>col4.selected_month+relativedelta(months=1))]
                 pie_data = list(Counter(df[selected_option]).items())
                 pie_data_partial = list(Counter(df_partial[selected_option]).items())
