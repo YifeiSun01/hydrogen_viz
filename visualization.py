@@ -98,6 +98,8 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
     
     df[["EndDate\n结束日期","UpdateDate\n更新日期"]] = df[["EndDate\n结束日期","UpdateDate\n更新日期"]].applymap(change_date_1)
     df[["StartDate\n开始日期"]] = df[["StartDate\n开始日期"]].applymap(change_date_2)
+    df['StartDate\n开始日期'] = df['StartDate\n开始日期'].apply(lambda x: pd.Timestamp(x))
+    df['EndDate\n结束日期'] = df['EndDate\n结束日期'].apply(lambda x: pd.Timestamp(x))
     
     selected_option_4 = st.radio("Select an option\n选择一个选项",["Show in Charts\n以图表展示","Show in Maps\n以地图展示","Show Raw Data\n展示原始数据"])
     if selected_option_4 == "Show in Charts\n以图表展示":
@@ -142,8 +144,6 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
     )
                 st_pyecharts(pie_chart, height=600)
             if selected_option_2 == "Show Stations by Year\n按年份展示加氢站":
-                df['StartDate\n开始日期'] = df['StartDate\n开始日期'].apply(lambda x: pd.Timestamp(x))
-                df['EndDate\n结束日期'] = df['EndDate\n结束日期'].apply(lambda x: pd.Timestamp(x))
                 col4, col5 = st.columns([5,1])
                 with col4:
                     start_date_2 = datetime(df["StartDate\n开始日期"].min().year,df["StartDate\n开始日期"].min().month,1)
