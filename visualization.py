@@ -147,7 +147,7 @@ if selected_topic == "Hydrogen Fueling Stations\n加氢站":
                     start_date_2 = datetime(df["StartDate\n开始日期"].min().year,df["StartDate\n开始日期"].min().month,1)
                     end_date = datetime(datetime.today().date().year,datetime.today().date().month,1) - relativedelta(months=1)
                     for day in generate_date_range(start_date_2, end_date):
-                        df_partial = df[df["StartDate\n开始日期"]!=None][(df["StartDate\n开始日期"]<day)&(df["EndDate\n结束日期"]>day+relativedelta(months=1))]
+                        df_partial = df[df["StartDate\n开始日期"]!=None][(df["StartDate\n开始日期"]<pd.Timestamp(day))&(df["EndDate\n结束日期"]>pd.Timestamp(day+relativedelta(months=1)))]
                         if sum([i[1] for i in list(Counter(df_partial[selected_option]).items())]) > 1:
                             break
                     start_date = day
