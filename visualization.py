@@ -1143,7 +1143,7 @@ if selected_topic == "Hydrogen Safety Incidents\n氢气安全事故":
         if selected_option_5 == "Show Stations by Years":
             min_year, max_year = st.slider("Select a Range", df["Incident Date\n事件日期"].min().year, datetime.now().year, (df["Incident Date\n事件日期"].min().year, datetime.now().year))
             df = df[df["Incident Date\n事件日期"]!=None][(df["Incident Date\n事件日期"]>datetime(min_year,1,1))&(df["Incident Date\n事件日期"]<datetime(max_year,12,31))]
-        columns_to_select = list(df.columns)[2:13]+[list(df.columns)[-1]]
+        columns_to_select = list(df.columns)[2:5]+list(df.columns)[6:13]+[list(df.columns)[-1]]
         selected_column = st.selectbox("Choose a feature to visualize:\n选择一个特征进行可视化:",columns_to_select)
         if selected_column in ["Severity\n严重性","Leak\n泄漏","Ignition\n点火","Characteristics\n特点","When Incident Discovered\n事故发现时间"]:
             pie_data = sorted(list(Counter(df[selected_column].str.split(", ").explode()).items()),key=lambda x: x[1], reverse=True)[::-1]
