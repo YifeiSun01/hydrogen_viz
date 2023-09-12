@@ -1183,7 +1183,7 @@ if selected_topic == "Hydrogen Safety Incidents\n氢气安全事故":
             bar_chart = (
                 Bar()
                 .add_xaxis([i[0] for i in bar_data])
-                .add_yaxis("Number of Stations\n加氢站数量", [i[1] for i in bar_data])
+                .add_yaxis("Number of Incidents\n事故数量", [i[1] for i in bar_data])
                 .reversal_axis()
                 .set_global_opts(title_opts=opts.TitleOpts(title=f"Top 40 {english_name}\n前四十{chinese_name}"),
                                 xaxis_opts=opts.AxisOpts(axislabel_opts=opts.LabelOpts(font_size=12),min_=0, max_=200,interval=50),
